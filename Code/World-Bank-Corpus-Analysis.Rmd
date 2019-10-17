@@ -1,0 +1,206 @@
+---
+title: "World Bank Corpus Analysis"
+author: "Huy Dang"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: yes
+    toc: yes
+---
+    
+    ```{r, echo = T, message=FALSE}
+    library("quanteda")
+    library("tm")
+    library("readtext")
+    library("stringr")
+
+    ```
+
+
+```{r}
+path_data <- setwd("/Users/dangngochuy/Desktop/Hertie/Hertie\ 3rd\ semester/Natural\ Language\ Processing/World-Bank-Corpus-Analysis/Code")
+wb_corpus_files <- readtext(paste0(path_data, "/Uncleaned_Data/*"),
+                    docvarsfrom = "filenames", 
+                    dvsep = "_",
+                    docvarnames = c("Organization", "Type", "Year"))
+
+wb_corpus_files$doc_id <- str_replace(wb_corpus_files$doc_id , ".txt", "") %>%
+   str_replace(. , "_\\d{2}", "")
+
+```
+
+```{r}
+#create corpus object
+
+wb_corpus <- corpus(wb_corpus_files, text_field = "text") 
+
+```
+
+```{r}
+summary(wb_corpus)
+```
+
+
+
+1.  Making a corpus and corpus structure
+
+    1.  From a vector of texts already in memory. 
+    
+        The simplest way to create a corpus is to use a vector of texts already present in 
+        R's global environment. Some text and corpus objects are built into the package,
+        for example `data_char_ukimmig2010` is the UTF-8 encoded set of 9 UK party manifesto sections from 2010, that deal with immigration policy.
+        addresses.  Try using `corpus()` on this set of texts to create a corpus.  
+      
+        Once you have constructed this corpus, use the `summary()` method to see a brief
+        description of the corpus.  The names of the corpus `data_char_ukimmig2010` should
+        have become the document names.
+      
+    1.  From a directory of text files.
+   
+        The `readtext()` function from the **readtext** package can read (almost) any set of files into an object
+        that you can then call the `corpus()` function on, to create a corpus.  (See `?readtext`
+        for an example.)
+      
+        Here you are encouraged to select any directory of plain text files of your own.  
+        How did it work?  Try using `docvars()` to assign a set of document-level variables.
+        If you do not have a set of text files to work with, then you can use the UK 2010 manifesto texts on immigration available with this assignment. 
+        ```
+   
+    1.  From `.csv` or `.json` files --- see the documentation for the package `readtext` (`help(package = "readtext")`).
+    
+        Here you can try one of your own examples, or just file this in your mental catalogue for future reference.
+    
+ 
+### Question 1 
+
+1.  Create a document-feature matrix, using `dfm`.  First, read the documentation using
+    `?dfm` to see the available options.
+   
+    ```{r}
+    mydfm <- dfm(data_corpus_inaugural, remove = stopwords("en"))
+    mydfm
+    topfeatures(mydfm, 20)
+    ```
+  
+**QUESTION 1: Experiment with different `dfm` options, such as `stem = TRUE`. How does your dfm change?**  
+
+ The function `dfm_trim()` allows you to reduce the size of the dfm following its construction.
+
+Grouping on a variable is an excellent feature of `dfm()`. For instance, if you want to aggregate all speeches by presidential name, you can execute
+   
+```{r}
+      mydfm <- dfm(data_corpus_inaugural, groups = "President")
+      mydfm
+     docnames(mydfm)
+```
+Note that this groups Theodore and Franklin D. Roosevelt together -- to separate them we would have needed to add a firstname variable using `docvars()` and grouped on that as well.
+
+```{r}
+      mydfm_1 <- dfm(data_corpus_inaugural, groups = "President", stem = TRUE)
+      mydfm_1
+     docnames(mydfm_1)
+```
+
+
+### Question 2   
+**QUESTION 2: Now try aggregating the Irish budget corpus (`data_corpus_irishbudget2010`) by political party, when creating a dfm.**
+
+```{r}
+      irishdfm <- dfm(data_corpus_irishbudget2010, groups = "party")
+      irishdfm
+     docnames(irishdfm)
+```
+
+
+## Explore the ability to subset a corpus.  
+
+There is a `corpus_subset()` method defined for a corpus, which works just like R's normal `subset()` command.  For instance if you want a wordcloud of just Obama's two inagural addresses, you would need to subset the corpus first:
+   
+```{r}
+obamadfm <- dfm(corpus_subset(data_corpus_inaugural, President == "Obama"))
+textplot_wordcloud(obamadfm)
+```
+
+### Question 3
+**QUESTION 3: Try producing that plot without the stopwords.  See `dfm_remove()` to remove stopwords from the dfm object directly, or supply the `remove` argument to `dfm()`.**
+
+```{r}
+obamadfm_nostop <- dfm(corpus_subset(data_corpus_inaugural, President == "Obama"), remove = stopwords("en"))
+textplot_wordcloud(obamadfm_nostop)
+```
+
+# Preparing and pre-processing texts
+
+## "Cleaning" texts
+    
+It is common to "clean" texts before processing, usually by removing punctuation,  digits, and converting to lower case. Look at the documentation for `char_tolower()` and use the command on the `data_char_sampletext` text (you can load this from **quanteda.corpora** using `data(data_char_sampletext)`. 
+
+### Question 4
+
+**QUESTION 4: Can you think of cases  where cleaning could introduce homonymy?**
+
+At the schema level, data model and schema design differences are to be addressed by the steps of schema translation and schema integration, respectively. The main problems w.r.t. schema design are naming and structural conflicts [2, 24, 17]. Naming conflicts arise when the same name is used for different objects (homonyms) or different names are used for the same object (synonyms). Structural conflicts occur in many variations and refer to different representations of the same object in different sources, e.g., attribute vs. table representation, different component structure, different data types, different integrity constraints, etc.
+
+## Tokenising texts
+
+In order to count word frequencies, we first need to split the text  into words through a process known as *tokenisation*.  Look at the documentation for **quanteda**'s `tokens()` function.  Use the  `tokens` command on `data_char_sampletext`, and examine the results.  
+
+### Question 5
+**QUESTION 5: Are there cases where it is unclear where the boundary between two words lies? You can experiment with the options to `tokens`.**  
+
+
+  tokens()
+ Try tokenizing the sentences from `data_char_sampletext` into sentences, using `tokens(x, what = "sentence")`. 
+        
+## Stemming
+    
+ Stemming removes the suffixes using the Porter stemmer, found in the **SnowballC** library. The **quanteda** functions to invoke the stemmer end with `*_wordstem`. Apply stemming to the `data_char_sampletext` (using `char_wordstem()`) and examine the results.  
+
+### Question 6
+**QUESTION 6: Why does it not appear to work, and what do you need to do to make it work?**
+
+## Applying "pre-processing" to the creation of a `dfm`.
+    
+**quanteda**'s `dfm()` function makes it wasy to pass the cleaning arguments to clean, which are executed as part of the tokenisation implemented by `dfm()`.  Compare the steps required in a similar text preparation package, [**tm**](http://cran.r-project.org/package=tm):
+        
+```{r}
+library("tm")
+data("crude")
+crude <- tm_map(crude, content_transformer(tolower))
+crude <- tm_map(crude, removePunctuation)
+crude <- tm_map(crude, removeNumbers)
+crude <- tm_map(crude, stemDocument)
+tdm <- TermDocumentMatrix(crude)
+
+# same in quanteda
+library("quanteda")
+crudeCorpus <- corpus(crude)
+crudeDfm <- dfm(crudeCorpus, remove_punct = TRUE, remove_numbers = TRUE, stem = TRUE)
+```
+        
+Inspect the dimensions of the resulting objects, including the names of the words extracted as features.  It is also worth comparing the structure of the document-feature matrixes returned by each package.  **tm** uses the [slam](http://cran.r-project.org/web/packages/slam/index.html) *simple triplet matrix* format for representing a [sparse matrix](http://en.wikipedia.org/wiki/Sparse_matrix).
+
+### Question 7
+**QUESTION 7: What differences do you note?**
+
+## Applying "pre-processing" to the creation of a `dfm` (contd.).
+
+It is also -- in fact almost always -- useful to inspect the structure of this object:
+
+```{r}
+str(tdm)
+```
+
+This indicates that we can extract the names of the words from the **tm** TermDocumentMatrix object by getting the rownames from inspecting the tdm:
+
+```{r}
+head(tdm$dimnames$Terms, 20)
+```
+
+
+Compare this to the results of the same operations from **quanteda**.  To get the "words" from a quanteda object, you can use the `featnames()` function.
+        
+### Question 8
+**QUESTION 8: What proportion of the `crudeDfm` are zeros?  Compare the sizes of `tdm` and `crudeDfm` using the `object.size()` function.**
+
