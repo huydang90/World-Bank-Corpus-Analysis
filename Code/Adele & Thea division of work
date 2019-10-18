@@ -1,0 +1,30 @@
+Both: 
+  1. We have some outliers that make the graph have big fluctuations e.g. 1958 suggesting that there is something wrong with 
+  the data + 1974 with few/many sentences 
+
+Both:
+  2. Look into documentation here: https://rdrr.io/cran/quanteda/man/textstat_readability.html?fbclid=IwAR27SC8NBD7tHksFobJireX-OnERdUSXFitURYeaHvHZWb5i4l-7eTNa81A
+    To find 3-4 new matrixes for financial & technical to add & discuss why e.g. C 
+
+Both: 
+  3. Agree on preprocessing & Lexical diversity; have a look individually & discuss before meeting with Huy
+
+Both: 
+  5. Look at Slava's feedback for the proposal and think about how to improve our project accordingly 
+
+
+
+
+
+During meeting with Huy & after:
+4. Write it up with the increasing complexity with the World Bank Corpus on Overleaf
+
+
+
+
+
+Next meeting at 15 Saturday 19.10.
+Division of labor: 
+    Adele & Thea work on preprocessing & 
+    Huy works on experimentation and graph interpretation 
+    We also need to talk about the data & fixing it 
