@@ -1,0 +1,28 @@
+Tasks to improve before submitting the mid-term:
+Analysis & data works pretty well
+
+
+1. We have some outliers that make the graph have big fluctuations e.g. 1958 suggesting that there is something wrong with 
+the data + 1974 with few/many sentences 
+  => have to figure out how to deal with that
+
+2. We can add a few more matrixes 
+  => take a look at the documentation for this (financial & technical data so it fits with our narrative)
+  a) Find and add in new measures 3 or 4 more to give more weight to our analysis e.g. C 
+  b) graph whatever we want after that
+https://rdrr.io/cran/quanteda/man/textstat_readability.html?fbclid=IwAR27SC8NBD7tHksFobJireX-OnERdUSXFitURYeaHvHZWb5i4l-7eTNa81A
+
+Main question then: 
+3. Agree on preprocessing 
+
+4. Write it up with the increasing complexity with the World Bank Corpus on Overleaf
+
+5. Future work after the mid-term 
+    a) Think about how to improve our project according to Slava's suggestions 
+
+Next meeting at 15 Saturday 19.10.
+Division of labor: 
+    Adele & Thea work on preprocessing & Lexical diversity
+    Huy works on experimentation and graph interpretation 
+    We also need to talk about the data & fixing it 
+
