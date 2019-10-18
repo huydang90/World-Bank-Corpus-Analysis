@@ -1,0 +1,85 @@
+---
+title: "Thea_Reps_71-94_Test1"
+output:
+  html_document:
+    df_print: paged
+---
+
+### Data loading  
+```{r}
+library(quanteda)
+library(readtext)
+
+require(quanteda)
+require(readtext)
+
+path_data <- system.file("/Users/theamadsen/Desktop/Thea TAD MT Test", package = "readtext")
+dat_thea_reps_71_94_test1 <- readtext(paste0(path_data, "Thea_Uncleaned_Reps_71-94*"))
+                    docvarsfrom = "filenames" 
+                    docvarnames = c("unit", "context", "year", "language")
+                    dvsep = "_" 
+                    encoding = "ISO-8859-1"
+
+str(dat_thea_reps_71_94_test1)
+```
+
+
+### Making my corpus  
+```{r}
+doc.corpus <- corpus(dat_thea_reps_71_94_test1)
+summary(doc.corpus)
+```
+
+### Cleaning and Creating Tokens  
+```{r}
+doc.tokens <- tokens(doc.corpus)
+
+doc.tokens <- tokens(doc.tokens, remove_punct = TRUE, 
+                     remove_numbers = TRUE)
+doc.tokens <- tokens_select(doc.tokens, stopwords('english'),selection='remove')
+doc.tokens <- tokens_wordstem(doc.tokens)
+```
+
+### Converting to DFM  
+```{r}
+doc.dfm <- dfm(doc.corpus, remove_numbers = TRUE, 
+               stem = TRUE, 
+               remove = stopwords("english"))
+
+doc.dfm.final <- dfm(doc.tokens)
+```
+
+### Prelim Analysis  
+```{r}
+head(kwic(doc.tokens, "environment", window = 3))
+
+topfeatures(doc.dfm.final, 5)
+
+topfeatures(doc.dfm.final, 20)
+
+textplot_wordcloud(doc.dfm.final)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
