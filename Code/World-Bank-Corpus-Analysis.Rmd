@@ -14,16 +14,20 @@ output:
     library("tm")
     library("readtext")
     library("stringr")
+    library("ggplot2")
+    library("syllable")
 
     ```
 
 
 ```{r}
+#Load data
 path_data <- setwd("/Users/dangngochuy/Desktop/Hertie/Hertie\ 3rd\ semester/Natural\ Language\ Processing/World-Bank-Corpus-Analysis/Code")
-wb_corpus_files <- readtext(paste0(path_data, "/Uncleaned_Data/*"),
+wb_corpus_files <- readtext(paste0(path_data, "/OCR_Data/*"),
                     docvarsfrom = "filenames", 
                     dvsep = "_",
-                    docvarnames = c("Organization", "Type", "Year"))
+                    docvarnames = c("Organization", "Type", "Year"),
+                    encoding = "ISO-8859-1")
 
 wb_corpus_files$doc_id <- str_replace(wb_corpus_files$doc_id , ".txt", "") %>%
    str_replace(. , "_\\d{2}", "")
@@ -38,6 +42,7 @@ wb_corpus <- corpus(wb_corpus_files, text_field = "text")
 ```
 
 ```{r}
+# Inspect corpus to detect data issues
 summary(wb_corpus)
 ```
 
@@ -103,5 +108,202 @@ plot(wb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of World B
 grid()
 axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 
+```
+
+```{r}
+
+#set up readability score functions
+
+flesch_kincaid_ <- function(n.words, n.sents, n.sylls, ...){
+    (.39*(n.words/n.sents)) + (11.8*(n.sylls/n.words)) - 15.9
+}
+
+gunning_fog_ <- function(n.words, n.sents, n.complexes, ...){
+    .4*((n.words/n.sents) + (100*(n.complexes/n.words)))
+}
+
+coleman_liau_ <- function(n.words, n.sents, n.chars, ...) {
+    (0.0588 * ((100 * n.chars)/n.words)) - (0.296 * ((100 * n.sents)/n.words)) - 15.8
+}
+
+smog_ <- function(n.sents, n.polys) {
+    (1.043 * sqrt(n.polys * (30/n.sents))) + 3.1291
+}
+
+
+#automated_readability_index_  <- function(n.words, n.sents, n.chars){
+#    4.71 * (n.chars/n.words) + 0.5 * (n.words/n.sents) - 21.43
+#}
+
+automated_readability_index_  <- function(n.words, n.sents, n.chars){
+    out <- 4.71 * (n.chars/n.words) + 0.5 * (n.words/n.sents) - 21.43
+    ceiling(ifelse(out < 1, 1, out)) - 1
+}
+
+SE <- function(x) sqrt(stats::var(x)/length(x))
+
+digit_format <- function (x, digits = 1) {
+    if (is.null(digits))
+        digits <- 3
+    if (length(digits) > 1) {
+        digits <- digits[1]
+        warning("Using only digits[1]")
+    }
+    x <- round(as.numeric(x), digits)
+    if (digits > 0)
+        x <- sprintf(paste0("%.", digits, "f"), x)
+    out <- gsub("^0(?=\\.)|(?<=-)0", "", x, perl = TRUE)
+    out[out == "NA"] <- NA
+    out
+}
+```
+
+```{r}
+
+#' Grade Level Readability 
+#' Calculate the Flesch Kincaid, Gunning Fog Index, Coleman Liau, SMOG,
+#' Automated Readability Index and an average of the 5 readability scores.
+
+readability <- function(x, grouping.var, order.by.readability = TRUE, group.names, ...){
+
+    n.sents <- n.words <- n.complexes <- n.polys <- n.chars <- Flesch_Kincaid <-
+        Gunning_Fog_Index <- Coleman_Liau <- SMOG <- Automated_Readability_Index <-
+        Average_Grade_Level <- n.sylls <- NULL
+
+    if(is.null(grouping.var)) {
+        G <- "all"
+        grouping <- rep("all", length(x))
+    } else {
+
+         if (isTRUE(grouping.var)) {
+                G <- "id"
+                grouping <- seq_along(x)
+        } else {
+
+            if (is.list(grouping.var) & length(grouping.var) > 1) {
+                m <- unlist(as.character(substitute(grouping.var))[-1])
+                G <- sapply(strsplit(m, "$", fixed=TRUE), function(x) {
+                        x[length(x)]
+                    }
+                )
+                grouping <- grouping.var
+            } else {
+                G <- as.character(substitute(grouping.var))
+                G <- G[length(G)]
+                grouping <- unlist(grouping.var)
+            }
+        }
+
+    }
+
+    if(!missing(group.names)) {
+        G <- group.names
+    }
+
+    y <- syllable::readability_word_stats_by(x, grouping, group.names = G)
+
+    grouping <- attributes(y)[["groups"]]
+
+    out <- y[, list(
+        Flesch_Kincaid = flesch_kincaid_(n.words, n.sents, n.sylls),
+        Gunning_Fog_Index = gunning_fog_(n.words, n.sents, n.complexes),
+        Coleman_Liau  =  coleman_liau_(n.words, n.sents, n.chars),
+        SMOG  =  smog_(n.sents, n.polys),
+        Automated_Readability_Index = automated_readability_index_(n.words, n.sents, n.chars)
+    ), by = grouping][, list(
+        Average_Grade_Level = mean(c(Flesch_Kincaid, Gunning_Fog_Index, Coleman_Liau, SMOG, Automated_Readability_Index), na.rm=TRUE)
+    ), by = c(
+        grouping, "Flesch_Kincaid", "Gunning_Fog_Index", "Coleman_Liau", "SMOG", "Automated_Readability_Index"
+    )]
+
+    if (isTRUE(order.by.readability)){
+        data.table::setorder(out, -Average_Grade_Level)
+    }
+
+    class(out) <- unique(c("readability", class(out)))
+    attributes(out)[["groups"]] <- grouping
+    out
+
+}
+
+#' Plots a readability Object
+
+plot.readability <- function(x, ...){
+
+    Value <- NULL
+
+    x[["grouping.var"]] <- apply(x[, attributes(x)[["groups"]], with = FALSE], 1, paste, collapse = ".")
+    x[["grouping.var"]] <- factor(x[["grouping.var"]], levels = rev(x[["grouping.var"]]))
+    x <- x[, attributes(x)[["groups"]]:=NULL]
+    y <- tidyr::gather_(x, "Measure", "Value", c("Flesch_Kincaid", "Gunning_Fog_Index",
+        "Coleman_Liau", "SMOG", "Automated_Readability_Index"))
+
+    y[["Measure"]] <- gsub("_", " ", y[["Measure"]])
+    data.table::setDT(y)
+
+    center_dat <- y[, list(upper = mean(Value) + SE(Value), lower = mean(Value) - SE(Value),
+        means = mean(Value)), keyby = "grouping.var"]
+
+    nms <- gsub("(^|[[:space:]])([[:alpha:]])", "\\1\\U\\2", attributes(x)[["groups"]], perl=TRUE)
+
+    xaxis <- floor(min(y[["Value"]])):ceiling(max(y[["Value"]]))
+
+    ggplot2::ggplot(y, ggplot2::aes_string(y = "grouping.var")) +
+        ggplot2::geom_vline(xintercept = mean(center_dat[["means"]]), size=.75, alpha = .25, linetype="dashed") +
+       # ggplot2::geom_point(ggplot2::aes_string(color = "Measure", x = "Value"), size=1.4) +
+        ggplot2::geom_point(ggplot2::aes_string(color = "Measure", x = "Value"), size=2, shape=1) +
+        ggplot2::geom_errorbarh(data = center_dat, size=.75, alpha=.4,
+            ggplot2::aes_string(x = "means", xmin="upper", xmax="lower"), height = .3) +
+        ggplot2::geom_point(data = center_dat, ggplot2::aes_string(x = "means"), alpha = .5, shape=15, size=3) +
+        ggplot2::geom_point(data = center_dat, ggplot2::aes_string(x = "means"), size=1) +
+        ggplot2::scale_x_continuous(breaks = xaxis) +
+        ggplot2::ylab(paste(nms, collapse = " & ")) +
+        ggplot2::xlab("Grade Level") +
+        ggplot2::theme_bw() +
+        ggplot2::scale_color_discrete(name="Readability\nScore")
+
+}
+
+
+#' Prints a readability Object
+
+print.readability <- function(x, digits = 1, ...){
+
+    key_id <- NULL
+
+    colord <-colnames(x)
+    cols <- c("Flesch_Kincaid", "Gunning_Fog_Index", "Coleman_Liau",
+       "SMOG", "Automated_Readability_Index", "Average_Grade_Level")
+
+    x[["key_id"]] <- 1:nrow(x)
+    y <- tidyr::gather_(x, "measure", "value", cols)
+
+    y[["value"]] <- digit_format(y[["value"]], digits)
+    y <- tidyr::spread_(y, "measure", "value")
+    data.table::setDT(y)
+    y <- y[order(key_id)]
+    y[, "key_id"] <- NULL
+    data.table::setcolorder(y, colord)
+    print(y)
+}
+```
+
+Plot readability scores
+
+```{r}
+wb_readability <- with(wb_corpus_files, readability(text, Year, order.by.readability = FALSE))
+```
+
+```{r}
+plot(wb_readability)
+```
+
+```{r}
+str(presidential_debates_2012)
+
+```
+
+```{r}
+str(wb_corpus_files)
 ```
 
