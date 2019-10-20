@@ -46,29 +46,29 @@ wb_corpus <- corpus(wb_corpus_files, text_field = "text")
 summary(wb_corpus)
 ```
 
-PRE-PROCESS THE DATA:  
 
-- Remove punctuation
-- Remove digits
-- Convert words to lower case? 
-
-EXPLORATORY ANALYSIS: 
-
-- Word cloud
-- DMF
-
-MEASURE READABILITY OF WORLD BANK CORPUR
+# MEASURE READABILITY OF WORLD BANK CORPUR
 
 ```{r}
 # Create readability measures for World Bank Corpus
+
+# Start the clock!
+ptm <- proc.time()
+
 wb_read <- textstat_readability(wb_corpus,
                      measure = c("Flesch", "Flesch.Kincaid", "FOG"))
 
+# Stop the clock
+proc.time() - ptm
 ```
 
-FRE SCORES:
+## FRE SCORES:
 
 Flesch reading ease measures how complex a text is. The lower the score, the more difficult the text is to read. The Flesch readability score uses the average length of your sentences (measured by the number of words) and the average number of syllables per word in an equation to calculate the reading ease. Text with a very high Flesch reading ease score (about 100) is straightforward and easy to read, with short sentences and no words of more than two syllables. The lower the Flesch reading score is, the harder it is to peruse the text. 
+
+```{r}
+str(wb_read)
+```
 
 
 ```{r}
@@ -80,8 +80,7 @@ axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 
 ```
 
-
-FLESCH KINCAID SCORE
+### FLESCH KINCAID SCORE
 
 Flesch-Kincaid Grade Level classifications are based on:
 - Sentence length as judged by the average number of words in a sentence
@@ -109,6 +108,8 @@ grid()
 axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 
 ```
+
+### COMBINED METRICS APPROACH
 
 ```{r}
 
@@ -291,19 +292,18 @@ print.readability <- function(x, digits = 1, ...){
 Plot readability scores
 
 ```{r}
+# Start the clock!
+ptm <- proc.time()
+
 wb_readability <- with(wb_corpus_files, readability(text, Year, order.by.readability = FALSE))
+
+# Stop the clock
+proc.time() - ptm
+
 ```
 
 ```{r}
 plot(wb_readability)
 ```
 
-```{r}
-str(presidential_debates_2012)
-
-```
-
-```{r}
-str(wb_corpus_files)
-```
 
