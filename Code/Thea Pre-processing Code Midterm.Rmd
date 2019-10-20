@@ -19,14 +19,14 @@ library(stringr)
 
 ```{r}
 path_data <- setwd("/Users/theamadsen/Desktop/Thea TAD MT Test")
-wb_corpus_files <- readtext(paste0(path_data, "/Uncleaned_Data/*"),
+wb_corpus_files <- readtext(paste0(path_data, "/OCR_Data/*"),
                     docvarsfrom = "filenames", 
                     dvsep = "_",
                     docvarnames = c("Organization", "Type", "Year"))
 wb_corpus_files$doc_id <- str_replace(wb_corpus_files$doc_id , ".txt", "") %>%
    str_replace(. , "_\\d{2}", "")
 
-# Create corpus object
+# create corpus object
 wb_corpus <- corpus(wb_corpus_files, text_field = "text") 
 summary(wb_corpus)
 ```
