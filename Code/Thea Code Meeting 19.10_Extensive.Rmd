@@ -1,0 +1,229 @@
+title: "Thea Notes on World Bank Corpus Analysis"
+author: "Thea Madsen"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: yes
+    toc: yes
+---
+    
+```{r, echo = T, message=FALSE}
+library(quanteda)
+library(quanteda.corpora)
+library(tm)
+library(readtext)
+library(ggplot2)
+library(stringr)
+```
+
+*NB: Thea set up for data processing*  
+```{r}
+path_data <- setwd("/Users/theamadsen/Desktop/Thea TAD MT Test")
+wb_corpus_files <- readtext(paste0(path_data, "/Uncleaned_Data/*"),
+                    docvarsfrom = "filenames", 
+                    dvsep = "_",
+                    docvarnames = c("Organization", "Type", "Year"))
+wb_corpus_files$doc_id <- str_replace(wb_corpus_files$doc_id , ".txt", "") %>%
+   str_replace(. , "_\\d{2}", "")
+
+# create corpus object
+wb_corpus <- corpus(wb_corpus_files, text_field = "text") 
+summary(wb_corpus)
+```
+
+### Thea Comment:   
+Taking the summary of the uncleaned World Bank corpus reveals that the number of types, tokens and sentences for each report varies considerably. Make sure to discuss dealing with this as it might impact our results and validity.   
+
+## Measure of readibility of World Bank Corpus  
+```{r}
+# Create readability measures for World Bank Corpus
+wb_read <- textstat_readability(wb_corpus,
+                     measure = c("Flesch", "Flesch.Kincaid", "FOG"))
+```
+
+### Plot distribution of FRE scores over the years  
+```{r}
+plot(wb_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of World Bank Annual Reports", ylab = "Flesch Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+```
+**FRE SCORES:**   
+"Flesch reading ease measures how complex a text is. The lower the score, the more difficult the text is to read. The Flesch readability score uses the average length of your sentences (measured by the number of words) and the average number of syllables per word in an equation to calculate the reading ease. Text with a very high Flesch reading ease score (about 100) is straightforward and easy to read, with short sentences and no words of more than two syllables. The lower the Flesch reading score is, the harder it is to peruse the text." 
+*Notes from here: https://yoast.com/flesch-reading-ease-score/* 
+
+### Thea Comments:   
+*From slides: *  
+"Interpretation: 
+  0-30: university level
+  60-70: understandable by 13-15 year olds
+  90-100 easily understood by an 11-year old student"
+
+“Texts with FRE scores ranging from: 
+  0 to 30 are considered very difficult to read
+  31 to 50 are difficult
+  51 to 60 are fairly difficult
+  61 to 70 are standard
+  71 to 80 are fairly easy
+  81 to 90 are easy
+  91 to 100 are very easy.”
+
+“The average academic political science article at around 33, on a par with judicial opinions, while the New York Times has a mean FRE of about 48 and children's books such as Peter Pan and The Wind in the Willows have FRE scores approaching 80.”
+
+“85 percent of Americans today can read at the 50–60 reading ease level
+72 percent at the 30–50 level
+28 percent at the lowest (0–30) level."
+
+### Thea Interpretation  
+2008 drops perhaps because the report probably due to formatting error has a considerable amount of text throughout the report where the letters appear without the nesseccary spaces in between to indicate where one word ends and another begins. 2002 also drops quite a bit, which might be due to several of its words being dashed so they might not be counted correctly in the measurement. Discuss if this would speak for having a closer look at the reports that 'drop' considerably to better the validity?
+
+Looking beyond the outlier cases mentioned, the interpretation of the Flesch measure finds 1947-96 to lay between 30 and high 50s meaning that the reports would be understadable to people under university level over the age of about 15 years; after 1996, the reports became much more difficult to understand for people below university level. This finding is in line with our hypothesis that the language of the reports over time develops to become more difficult to understand by general publics as intended. 
+
+```{r}
+plot(wb_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of World Bank Annual Reports", ylab = "Flesch Kincaid Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+```
+**FLESCH KINCAID SCORE**   
+Flesch-Kincaid Grade Level classifications are based on:
+- Sentence length as judged by the average number of words in a sentence
+- Word length as judged by the average number of syllables in a word.
+The higher the score is, the more difficult the text is. 
+
+### Thea Comment:  
+From slides: Flesch-Kincaid rescales to the US educational grade levels (1-12)
+This measure displays roughly the opposite of the previous Flesch measure. 
+Keep in mind previous comments e.g. about 2008 for the extreme value. Looking beyond these extreme values, most of the reports measure to levels between 10 and mid-20s. This, again, indicates that they are very difficult to read and best understood by university graduates, which is in line with our hypothesis. 
+
+```{r}
+plot(wb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of World Bank Annual Reports", ylab = "Gunning Fog Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+```
+
+**GUNNING FOG**  
+
+The Gunning Fog formula generates a grade level, typically between 0 and 20. The formula estimates the years of formal education the reader requires to understand the text on first reading. The formula for Gunning Fog is 0.4 [(words/sentences) + 100 (complex words/words)], where complex words are defined as those containing three or more syllables.
+
+- Score of 15-20 would indicate academic-level papers
+- Score of over 20 denotes that this is a complex text
+
+### Thea Comment:  
+Overlooking the extreme value for 2008 and 2002, the Gunning Fog measure supports the findings in the other measurements that the reports become increasingly complex over time where they increase frominitial scores of academic-level papers to scores denoting complex texts. 
+
+### Cleaning and Creating Tokens  
+```{r}
+doc.tokens <- tokens(wb_corpus)
+
+doc.tokens <- tokens(doc.tokens, remove_punct = TRUE, 
+                     remove_numbers = TRUE)
+doc.tokens <- tokens_select(doc.tokens, stopwords('english'),selection='remove')
+doc.tokens <- tokens_wordstem(doc.tokens)
+```
+
+### Converting to DFM  
+```{r}
+doc.dfm <- dfm(wb_corpus, remove_numbers = TRUE, 
+               stem = TRUE, 
+               remove = stopwords("english"))
+
+doc.dfm.final <- dfm(doc.tokens)
+```
+
+## Exploratory analysis Word cloud  
+```{r}
+head(kwic(doc.tokens, "environment", window = 3))
+
+topfeatures(doc.dfm.final, 5)
+
+topfeatures(doc.dfm.final, 20)
+
+textplot_wordcloud(doc.dfm.final)
+```
+
+### Thea Comment:
+The word cloud shows that the most frequently used words in order from the most used are
+bank, million, develop, countri, project, total, will,  year, loan, fiscal, ida,  world, program, increas, sector,  ibrd, cost, financ, provid and credit. This shows that the reports are highly technical in their language unsurpricingly focussed on strategies for how to develop countries every year within sectors through loans, credit and projects. 
+
+### Lexical diversity and readability Test  
+# KWIC
+**Thea Notes from slides:**  
+"A KWIC shows how a word or phrase is used across various texts in the corpus. A KWIC index is formed by sorting and aligning the matching words within a corpus."
+
+```{r}
+head(kwic(wb_corpus, "develop"))
+
+head(kwic(wb_corpus, "implemen"))
+```
+
+### Thea Comment:
+The terms are chosen to look into the hypohtesized increasing with time topdown technocratic management discourse of the World Bank toward developing countries in the difference between developing and implementing. 
+
+```{r}
+textplot_xray(kwic(wb_corpus, pattern = "South-South")) + 
+    ggtitle("Lexical dispersion")
+```
+
+### Thea Comment:
+South-South is chosen to investigate the distribution of a technocratic term.  
+
+```{r}
+textplot_xray(
+    kwic(wb_corpus, pattern = "environment"),
+    kwic(wb_corpus, pattern = "project")) + 
+    ggtitle("Lexical dispersion")
+```
+
+### Thea Comment:  
+The terms are chosen to investigate the development of the discourse and the potential rise in awareness of targetting the environment. This term is perhaps not ideal as it can have other meanings than just 'climate change', which might be better. The figures are very grained because of the amount of texts but still gives a general overview of the dispersion of the word usage. 
+
+# Collocations
+"Through collocation analysis, we can identify multi-word expressions that are very frequent in our corpus."
+
+### Thea Comment: 
+This is important to do because I hypothesize that the reports develop from using simpler ‘stand-alone’ words to using expressions and phrases. We need to figure out how to identify our collocations. Maybe looking at the features. 
+
+
+```{r}
+toks <- tokens(wb_corpus)
+```
+
+Notes from Slava:
+"With `textstat_collocations()`, it is possible to discover multi-word expressions through statistical scoring of the associations of adjacent words.
+
+One of the most common type of multi-word expressions is proper names, which we can select simply based on capitalization in English texts. If `textstat_collocations()` is applied to a tokens object comprised only of capitalize words, it usually returns multi-word proper names."
+
+"Collocations are automatically recognized as multi-word expressions by `tokens_compound()` in case-sensitive fixed pattern matching. This is the fastest way to compound large numbers of multi-word expressions, but make sure that `tolower = FALSE` in `textstat_collocations()` to do this."
+
+```{r}
+col <- toks %>% 
+       tokens_remove(stopwords("en")) %>% 
+       tokens_select(pattern = "^[A-Z]", valuetype = "regex", 
+                     case_insensitive = FALSE, padding = TRUE) %>% 
+       textstat_collocations(min_count = 5, tolower = FALSE)
+head(col)
+```
+
+### Thea Comment:
+This shows that the most frequently used collocations are, unsurprisingly, World Bank and United States but then, interestingly, Executive Directors, East Asia, Financial Statements and South Asia, which again shows a top-down approach of the reports but also a focus on Asia. 
+
+```{r}
+comp_toks2 <- tokens_compound(toks, pattern = col)
+head(kwic(comp_toks2, pattern = c("World_Bank", "Financial_Statements")))
+```
+
+"You can use `phrase()` on collocations if more flexibility is needed. This is usually the case if you compound tokens from different corpus."
+
+```{r}
+comp_toks3 <- tokens_compound(toks, pattern = phrase(col$collocation))
+head(kwic(comp_toks3, pattern = c("World_Bank", "Financial_Statements")))
+```
+
+"The result of collocation analysis can be used to compound tokens. Compounding makes tokens less ambiguous and significantly improves quality of statistical analysis in the downstream. We will only compound strongly associated (p<0.005) multi-word expressions here by sub-setting `tstat_col_cap$collocation`."
+
+
+```{r}
+tstat_col_cap <- textstat_collocations(toks, min_count = 10, tolower = FALSE)
+head(tstat_col_cap, 20)
+
+```
