@@ -1,0 +1,54 @@
+---
+title: "WB Annual Report Group Work_Text as Data"
+output: html_document
+---
+
+#setting up the necessary pacakages 
+```{r setup}
+install.packages("readtext")
+install.packages("quanteda")
+install.packages("ggplot2")
+library(readtext)
+library(quanteda)
+library(ggplot2)
+```
+
+
+#getting the txt from 1947 - 2018
+```{r}
+WB_files <- readtext::readtext("C:\\Users\\44700\\Desktop\\World-Bank-Corpus-Analysis\\Dataset\\Uncleaned_Data")
+```
+
+
+#first trial without removing stopwords and punctuations 
+```{r trial}
+WB_corpus <- corpus(WB_files,text_field = "text")
+stat_read <- textstat_readability(WB_corpus,measure = "Flesch")
+stat_read
+plot(stat_read$Flesch, type = 'l', xaxt = 'n', xlab = NULL, ylab = "Flesch")
+```
+
+#detected out outliners for year 2001 and 2008, suggest for some data cleaning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
