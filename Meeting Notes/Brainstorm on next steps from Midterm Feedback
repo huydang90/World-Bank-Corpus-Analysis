@@ -1,0 +1,11 @@
+Brainstorm on Midterm feedback
+
+1. Xiaoyan will upload more to GitHub 
+2a. Building a statistical model where readability is just a parameter 
+    i. Might be possible with the method that we'll learn next class for L5 and unsupervised methods
+    ii. The wordscore method (https://tutorials.quanteda.io/machine-learning/wordscores/) predicting ideological positions of 
+        political actors does not seem very relevant for our research question and hypothesis 
+  b. ... or build something from the other topics we cover in the course like dict/supervised/unsupervised methods
+    i. This is likely what we will learn in class 5.
+
+3. I want you to develop some additional advanced skills in the course of the project work. 
