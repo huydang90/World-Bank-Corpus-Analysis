@@ -5,6 +5,12 @@ Brainstorm on Midterm feedback
     i. Might be possible with the method that we'll learn next class for L5 and unsupervised methods
     ii. The wordscore method (https://tutorials.quanteda.io/machine-learning/wordscores/) predicting ideological positions of 
         political actors does not seem very relevant for our research question and hypothesis 
+        
+    iii. Or use the director (or some other change) of the World Bank organizational set up to predict the ideological 
+        direction or complexity of the World Bank Reports 
+        => this would require finding speeches on the directors and match them to the time periods that they were the director
+            and try to find the ideological impact, which might not be possible
+            
   b. ... or build something from the other topics we cover in the course like dict/supervised/unsupervised methods
     i. This is likely what we will learn in class 5.
 
