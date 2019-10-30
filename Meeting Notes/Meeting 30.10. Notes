@@ -1,0 +1,36 @@
+Meeting 30.10. Notes
+
+1. Suggestions: 
+  a) Topic modelling for next session but still a little unclear about how to do
+  b) Discourse analysis of the individual documents; might reveal interesting aspects. Similar to topic modelling but more detailed
+  c) Ideology classification like last time similar to word scores but might reveal ideologies of the reports
+  d) Group of words that appear together (bi- and trigrams); related to complexity
+  e) Supervised model but still a big unclear about how to do it 
+
+2. Points to this:
+  a) might be interesting looking specifically on e.g. Africa and looking at how the discourse for this changes
+  b) Might also be interesting
+  c) Concerned for ideology mapping as not exactly in line with our research question 
+
+3. Course of action: 
+  a) Divide workload and explore options
+  b) For the next two weeks, look into other bodies of texts and look at complexity levels here e.g. world development research,
+  African or Asian development bank or UN that are not under the World Bank 
+  => to get a clearer idea of how they are similar or different to the World Bank and see if the different trends affect each 
+  other or happen independently
+  c) Potentially use the supervised method
+
+4. Adele suggestion of how the language develops becoming more or less similar
+
+5. Division of work
+  a) Huy: World development report - policies in the developing world; about 30 documents
+  b) Adele collects and runs code on: Annual reports from the Asian development bank established in 1966 (10 years after the World Bank): 
+        https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.adb.org%2Fdocuments%2Fseries%2Fadb-annual-reports%3Fpage%3D7%26fbclid%3DIwAR2MQiGalEVGrIVZGkrm7k-g_TL6fbswyIr3riEqC5vadaukN3KV0nTJPfQ&h=AT1KiVEeGsPOD75I7NUvz4ceRgCphBaBSnnahwEiCSi9Z6-zRo6QWgZmFHce8oHSwW9iU1VR8kf1DLVivubizWLNgQO77qAhf5kpDbz3Ur-l_CRwpY9wc9tRXoTCuYUme-KbHZvG
+  c) Thea collects and runs code on: African development bank from 1964: https://www.afdb.org/en/documents-publications/annual-report
+  d) Collec the documents by this weekend and run analysis 
+  e) Apply other approaches after this week 
+  f) Adele would like to do the coding for the complexity and similarity 
+  g) Huy will make folders for the reports for us to upload the pdfs to and will do the conversion from pdf
+  h) Adele will also do similiarity code 
+  
+6. Next meeting on Tuesday November 5 at 10
