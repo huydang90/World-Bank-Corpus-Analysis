@@ -47,10 +47,10 @@ summary(wb_corpus)
 ```
 
 
-# MEASURE READABILITY OF WORLD BANK CORPUR
+# MEASURE READABILITY OF WORLD DEVELOPMENT REPORT CORPUR
 
 ```{r}
-# Create readability measures for World Bank Corpus
+# Create readability measures for World Development Report Corpus
 
 # Start the clock!
 ptm <- proc.time()
@@ -74,7 +74,7 @@ str(wb_read)
 ```{r}
 # Plot distribution of FRE scores over the years
 
-plot(wb_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of World Bank Annual Reports", ylab = "Flesch Score")
+plot(wb_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of World Development Reports", ylab = "Flesch Score")
 grid()
 axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 
@@ -88,7 +88,7 @@ Flesch-Kincaid Grade Level classifications are based on:
 The higher the score is, the more difficult the text is. 
 
 ```{r}
-plot(wb_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of World Bank Annual Reports", ylab = "Flesch Kincaid Score")
+plot(wb_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of World Development Reports", ylab = "Flesch Kincaid Score")
 grid()
 axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 ```
@@ -103,7 +103,7 @@ The formula for Gunning Fog is 0.4 [(words/sentences) + 100 (complex words/words
 - Score of over 20 denotes that this is a complex text
 
 ```{r}
-plot(wb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of World Bank Annual Reports", ylab = "Gunning Fog Score")
+plot(wb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of World Development Reports", ylab = "Gunning Fog Score")
 grid()
 axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
 
