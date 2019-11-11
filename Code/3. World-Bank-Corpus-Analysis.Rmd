@@ -16,7 +16,9 @@ output:
     library("stringr")
     library("ggplot2")
     library("syllable")
-
+    library("stm")
+    library("stmCorrViz")
+    library("igraph")
     ```
 
 
@@ -44,6 +46,65 @@ wb_corpus <- corpus(wb_corpus_files, text_field = "text")
 ```{r}
 # Inspect corpus to detect data issues
 summary(wb_corpus)
+```
+
+```{r}
+processed <- textProcessor(wb_corpus_files$text, metadata=wb_corpus_files)
+```
+
+```{r}
+out <- prepDocuments(processed$documents, processed$vocab, processed$meta)
+```
+
+```{r}
+docs <- out$documents
+vocab <- out$vocab
+meta <- out$meta
+```
+
+```{r}
+plotRemoved(processed$documents, lower.thresh=seq(1,200, by=100))
+```
+
+```{r}
+#Next, estimate the structural topic model with the topic prevalence parameter. To do this, execute an stm model using the 'out' data with 20 topics. Here we can ask how prevalence of topics varies across documents' meta data, including 'rating' and 'day'. The option 's(day)' applies a spline normalization to 'day' variable. The stm R package authors specified the maximum number of expectation-maximization iterations = 75, and the seed they used for reproducibility.
+
+
+poliblogPrevFit <- stm(out$documents, out$vocab, K=20, prevalence=~Year, 
+                       max.em.its=75, data=out$meta, init.type="Spectral", 
+                       seed=8458159)
+
+```
+
+```{r}
+#summary model with 20 topics
+plot(poliblogPrevFit, type="summary", xlim=c(0,.4))
+
+```
+
+```{r}
+plot(poliblogPrevFit, type="hist")
+
+```
+
+```{r}
+poliblogSelect <- selectModel(out$documents, out$vocab, K=20, prevalence=~Year,
+                              max.em.its=75, data=meta, runs=1, seed=8458159)
+
+```
+
+```{r}
+plotModels(poliblogSelect)
+```
+
+```{r}
+topicQuality(model=poliblogPrevFit, documents=docs)
+
+```
+
+```{r}
+mod.out.corr <- topicCorr(poliblogPrevFit)
+plot(mod.out.corr)
 ```
 
 
