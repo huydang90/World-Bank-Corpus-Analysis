@@ -1,0 +1,43 @@
+---
+title: "Asian Development Bank Annual Report OCR"
+author: "Xiaoyan"
+date: "01/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#decided to install two packages. For pdf to jpg, found a different method on CRAN. 
+```{r package installation}
+install.packages("tesseract")
+install.packages("pdftools")
+library("tesseract")
+library("pdftools")
+eng <- tesseract("eng")
+
+```
+
+
+#first try with the 2018 report
+```{r conversion to jpg}
+pdf_convert( file.path("C:","Users","44700","Desktop","World-Bank-Corpus-Analysis","Dataset","Asian Development Bank","ADB_AN_2018.pdf",fsep="/"), format = "jpg", pages = NULL, filenames = NULL,dpi = 72, antialias = TRUE, opw = "", upw = "", verbose = TRUE)
+```
+
+
+#seems to work but I have no idea where the converted jpgs are lol and now let me try to convert the jpg into txt 
+```{r jpg to txt}
+ADB_AN_2018_TXT <- tesseract::ocr("ADB_AN_2018_1.jpg", engine = eng)
+cat(ADB_AN_2018_TXT)
+```
+
+#I rely on this CRAN page for the jpg2txt conversion:
+https://cran.r-project.org/web/packages/tesseract/vignettes/intro.html 
+#and this one for the pdf to jpg:
+https://cran.r-project.org/web/packages/pdftools/pdftools.pdf 
+
+#however I have 3 questions:
+1. how I can make automatic conversion of a whole pdf document. in the trial, I basically can only do one page at a time. I checked up Huy's github code but I doubt if he is using python for the conversion. However, I do get inspiration from the "for i in xxx" loop.  
+2. I don't know how to save the conversion into txt. Huy's code might already cover this part. So I will give a second look another day.
+3. How do we deal with those messy character due to OCR of "pictures". I mean real picture but not text in jpg form?
