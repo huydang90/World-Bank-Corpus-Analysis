@@ -1,0 +1,54 @@
+---
+title: "ADB Complexity Analysis - Easy Version"
+author: "Xiaoyan"
+date: "11 November 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages setup}
+install.packages("readtext")
+install.packages("quanteda")
+install.packages("ggplot2")
+install.packages("tidyr")
+library("readtext")
+library("quanteda")
+library("ggplot2")
+library("tidyr")
+```
+
+
+```{r}
+#getting the txt from 1967 - 2018
+ADB_corpus_files <- readtext::readtext("/Users/172657/Downloads/ADB AN TXT",
+                    docvarsfrom = "filenames", 
+                    dvsep = "_",
+                    docvarnames = c("Organization", "Type", "Year"),
+                    encoding = "ISO-8859-1")
+```
+
+```{r}
+ADB_corpus <- corpus(ADB_corpus_files,text_field = "text")
+ADB_read <- textstat_readability(ADB_corpus,
+                     measure = c("Flesch", "Flesch.Kincaid", "FOG"))
+plot(ADB_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of Asian Development Bank Annual Reports", ylab = "Flesch Score")
+
+grid()
+axis(1, at = seq_len(nrow(ADB_read)), labels = docvars(ADB_corpus, 'Year'))
+
+plot(ADB_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of Asian Development Bank Annual Reports", ylab = "Flesch.Kincaid")
+axis(1, at = seq_len(nrow(ADB_read)), labels = docvars(ADB_corpus, 'Year'))
+
+plot(ADB_read$FOG, type = 'l', xaxt = 'n', xlab = "FOG Measure of Asian Development Bank Annual Reports", ylab = "FOG")
+axis(1, at = seq_len(nrow(ADB_read)), labels = docvars(ADB_corpus, 'Year'))
+
+```
+
+
+```{r}
+
+```
+
