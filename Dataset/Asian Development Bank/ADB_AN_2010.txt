@@ -1,17 +1,18 @@
-ANNUAL
+EPORT
 
-REPORT
-201 0
+oC
 
-Zs ——
+‘O--1—0
 
-Asian Development Bankf
+2
+
+Asian Development BankSs
 
 ANNUAL
 REPORT
 2—0—1-—=0
 
-Asian Development Banka
+~ Asian Development BankEES
 CONTENTS
 
 THE RECORD
@@ -33,7 +34,9 @@ ORGANIZATION
 HIGHLIGHTS
 
 6 FINANCING OPERATIONS
+
 7 CENTRAL AND WEST ASIA
+
 8 EAST ASIA
 
 9 PACIFIC
@@ -47,12 +50,13 @@ HIGHLIGHTS
 54
 
 6210 SOUTH ASIA
+
 11 SOUTHEAST ASIA
 
 12 NONSOVEREIGN
 OPERATIONS
 
-13 GENERATING AND
+13. GENERATING AND
 SHARING KNOWLEDGE
 
 14 FINANCE AND
@@ -87,12 +91,13 @@ ABBREVIATIONS
 
 135
 
-137(EERE RRREEES
-BEEERSEEE
+137(EREEERREEES
+a ERR EEREEESEE
+Ky EKER EE SEE EEE
 
-CEM ERREESEEREEE
-I EERE EEL
-|Annual Report 2010
+BEREEEEE
+bay
+ai |Annual Report 2010
 
 5
 
@@ -117,12 +122,12 @@ THE RECORD
 1966-2010 2007 2008 2009 2010
 OPERATIONAL ACTIVITIES 201,392 11,090 12,173 19,156 17,513
 |. ORDINARY CAPITAL RESOURCES (OCR) AND SPECIAL FUNDS RESOURCES 181,626 10,557 10,898 15,738 13,845
-(amount) (A+B+C+D+E+F)2°
+(amount) (A+B+C+D+E+ FP?
 A. Loans (amount) (1 + 2) 167,116 9,516 9,899 13,216 11,462
 Disbursements 117,233 6,852 8,515 10,099 7,516
-1. OCR (amount) (a + b + 0) 126,367 7,623 8,135 11,006 9,250
+1. OCR (amount) (a + b +.) 126,367 7,623 8,135 11,006 9,250
 Disbursements 86,345 5,234 6,472 7,898 5,945
-a, Sovereign 120,369 6,972 6,839 10,568 8,197
+a. Sovereign 120,369 6,972 6,839 10,568 8,197
 Disbursements 82,348 4,743 5,878 7,449 5,272
 b. Nonsovereign Public 294 10 75 134 Disbursements 160 30 54 = 75,
 c. Nonsovereign Private 5,703 640 1,222 304 1,053
@@ -131,7 +136,7 @@ Disbursements 3,837 461 540 449 598
 Disbursements 30,888 1,618 2,043 2,201 1,571
 a. Sovereign 40,735 1,893 1,764 2,210 2,213
 Disbursements 30,873 1,618 2,043 2,201 1,571
-b. Nonsovereign Public 15 - - - Disbursements 15 = = = =
+b. Nonsovereign Public 15 - - Disbursements 15 = = = =
 B. Grants (amount) (1 + 2) 4,359 549 707 924 982
 1. ADF 3,624 519 707 911 967
 Disbursements 981 63 177 347 358
@@ -145,22 +150,22 @@ E, Equity (amount) 1,937 80 103 220 243
 F. Technical Assistance Grants (amount) (1 + 2) 3,147 161 189 203 175
 1. Technical Assistance Special Funds (TASF) 1,912 110 119 137 147
 2. Other Special Funds 1,235 51 70 66 28
-Il, COFINANCING (amount) (A + 8)! 19,766 534 1,275 3,418 3,669
+ll, COFINANCING (amount) (A + 8)?! 19,766 534 1,275 3,418 3,669
 A. Project
-1. Loans (amount) (@ + b) 16,840 321 1,090 3,164 3,360
+1. Loans (amount) (a + b) 16,840 321 1,090 3,164 3,360
 a. Official 14,042 121 665 2,768 2,850
 b. Commercial 2,798 200 425 396 510
 2. Grants (amount) 1,938 123 101 190 157
 B. Technical Assistance Grants (amount)? 988 90 84 64 151
-TOTAL (I + II) 201,392 11,090 12,173 19,156 17,513
-| OCR AND SPECIAL FUNDS RESOURCES (number)®®
+TOTAL (1 + Il) 201,392 11,090 12,173 19,156 17,513
+| OCR AND SPECIAL FUNDS RESOURCES (number)®°
 A. Loans
-Number of Projects" 2,328 80 81 92 106
+Number of Projects” 2,328 80 81 92 106
 Number of Loans (1 + 2 + 3) 2,679 91 91 110! 118
 1. Sovereign 2,530 74 80! 104! 105
 2. Nonsovereign Public 5 1 1 2 =
 3. Nonsovereign Private 144 16 10 4 3
-B. Grants” 163 24 27 33 40
+B. Grants" 163 24 27 33 40
 C. Guarantees 33 3 = 1 5
 D. Trade Finance Program 1 = = 1 =
 E. Equity Investments 169 5 6 5 8
@@ -177,7 +182,7 @@ Outstanding Debt 51,822 31,569 35,672 42,063) 51,822
 Ordinary Reserve 10,030 9,245 9,532 9,790 10,030
 Special Reserve 230 203 210 219 230
 Gross Revenue (for the period) 1,142 2,208 2,064 1,472 1,142
-Net Income (loss) after Appropriation of Guarantee Fees 14,728" 760 1,119 (7) 614
+Net Income (loss) after Appropriation of Guarantee Fees 14,728" 760 1,119 7) 614
 to Special Reserve (for the periog)
 Special Funds Resources
 Asian Development Fund Total Resources 32,651 31,950 33,479 31,973! 32,651
@@ -212,7 +217,7 @@ f Starting 2006, cofinancing statistics indicate direct value-added cofinancing:
 
 g_ Includes reimbursable TA for Brunei Darussalam amounting to $0.6 million and $0.8 million in 2008 and 2010, respectively.
 
-fh. Projects with multiple loans, or with combination of public and private lending are counted once. Cumulative number of projects excludes supplementary loans. Grants and technical assistance with multiple fund source are counted once.
+Projects with multiple loans, or with combination of public and private lending are counted once. Cumulative number of projects excludes supplementary loans. Grants and technical assistance with multiple fund source are counted once.
 i Includes count for an earlier approved loan with supplementary financing in the current year.
 
 j
@@ -220,7 +225,7 @@ j
 From 2009 onwards, amount includes unamortized discounts/premiums, transition adjustment, translation adjustment, and ASC 815 adjustment on swapped borrowings.
 
 k Includes cumulative effect of ASC 820/825 adoption amounting to $227.5 million, as an adjustment to the 1 January reserves.
-| Includes reclassification relating to Due from Contributors of $2,185.6 million as of 31 December 2009 from Assets to Fund Balances under Nonnegotiable, Noninterest-bearing Demand Obligations on Account of Contribution
+| Includes reclassification relating to Due from Contributors of $2, 185.6 million as of 31 December 2009 from Assets to Fund Balances under Nonnegotiable, Noninterest-bearing Demand Obligations on Account of Contribution
 
 m Net
 
@@ -228,8 +233,6 @@ of $90.0 million, which was transferred to Japan Fund for Poverty Reduction in 2
 
 MESSAGE FROM
 THE PRESIDENT
-
-We .
 
  
 
@@ -299,7 +302,7 @@ ADB’s ongoing Trade Finance Program supported
 $2.8 billion in trade. Business processes were
 simplified and restrictions lifted on additional financing
 so that well-performing projects can be prioritized and
-expanded—teflecting ADB’s focus on operations that
+expanded—reflecting ADB’s focus on operations that
 deliver the best results. In addition, a midterm review
 of the Asian Development Fund concluded that solid
 progress had been made on implementing its strategic
@@ -325,7 +328,7 @@ I always stress that success is never preordained. If Asia’s
 vast potential is to be fulfilled, it must rebalance growth to
 reduce reliance on external markets, which will strengthen
 resilience against future crises. Developing Asia must also
-promote public-private partnerships to meet infrastructure
+promote public—private partnerships to meet infrastructure
 needs and to ensure that development is both inclusive and
 environmentally sustainable.
 
@@ -338,7 +341,9 @@ to ensure greater progress in the years ahead.
 
 Haruhiko Kuroda
 President and Chairman
-Board of DirectorsBOARD OF DIRECTORS
+Board of DirectorsCHAPTER 2
+
+BOARD OF DIRECTORS
 
  
 
@@ -458,7 +463,7 @@ These visits strengthened ADB’s relationship with development partners and gen
 
 In September, the Board and Management participated
 in a l-day retreat covering two important topics: Asia’s
-water crisis and public—private partnerships.
+water crisis and public-private partnerships.
 
 BOARD COMMITTEES
 
@@ -538,7 +543,7 @@ Transport Development Project in Sri Lanka.
 
 The committee considered the content of its 2008—
 2009 annual report, and it convened a meeting with
-the Compliance Review Panel and another with externalAnnual Report 2010 1
+the Compliance Review Panel and another with externalAnnual Report 2010 ll
 
  
 
@@ -613,37 +618,38 @@ The committee extensively monitored and made
 recommendations on two major human resources activities completed in 2010: the comprehensive review of the
 professional staff compensation and benefits, and the
 2010 staff engagement survey. Further, the committee
-continued to monitor major developments in various human.
+continued to monitor major developments in various human
 resources functions.
 
 The committee met seven times.BOARD OF DIRECTORS
 
- 
-
 PRESIDENT AND CHAIRMAN
 OF THE BOARD OF DIRECTORS
-EXECUTIVE DIRECTORS
-a — ba
-ie pn
-Phil Bowen Howard Brown _ Richard Edwards Marwanto Ashok K. Lahiri
 
-Harjowiryono
-
-  
-
-ALTERNATE EXECUTIVE DIRECTORS
+ 
 
 Haruhiko Kuroda
 
+EXECUTIVE DIRECTORS
+
+al . rr =
+
   
 
+Phil Bowen Howard Brown _ Richard Edwards Marwanto Ashok K. Lahiri
+Harjowiryono
+
+ALTERNATE EXECUTIVE DIRECTORS
+
+   
+
 Dereck Jacob A. Eduard CJ. (Stan) Bounleua
-Rooken-Smith — Rooimans Westreicher Vandersyp Sinxayvolavong“~s
+Rooken-Smith — Rooimans Westreicher Vandersyp SinxayvolavongSs
 
 Michele Robert M. Orr Masakazu Siraj S. Jaejung Song Chaiyuth Yingming Yang
 Miari Fulcis Sakaguchi Shamsuddin Sudthitanakorn
 
- 
+    
 
 Jose Maureen Grewe Yasuto Gaudencio S. Wilson Kamit Govinda Xiuzhen Guan
 Miguel Cortes Watanabe Hernandez, Jr. Bahadur Thapa
@@ -652,7 +658,8 @@ MANAGEMENT
  
 
 C. Lawrence Ursula BinduN.Lohani Xiaoyu Zhao Lakshmi Rajat M. Nag Robert L. T.
-Greenwood, Jr. Schaefer-Preuss Venkatachalam DawsonPOLICY AND STRATEGY
+
+Greenwood, Jr. | Schaefer-Preuss Venkatachalam DawsonPOLICY AND STRATEGY
 
 OVERVIEW
 
@@ -770,7 +777,7 @@ ADB launched a review in February 2010 to assess its
 
  
 
-1 See http:/www.adb.org/AM-Review/16 Asian Development Bank
+1 See http:/Awww.adb.org/AM-Review/16 Asian Development Bank
 
  
 
@@ -779,7 +786,7 @@ Millennium Development Goals and Infrastructure Development
 in Asia and the Pacific
 
 he scale of the task of achieving the Millennium
-“T metermen Goals (MDGs) is daunting. The region
+“ metermen Goals (MDGs) is daunting. The region
 
 is home to more than 900 million poor comprising
 more than two-thirds of the world’s population in extreme
@@ -831,8 +838,8 @@ Finally, potential benefits exist for regional cooperation
 in infrastructure, including basic infrastructure. It has been
 estimated that regional connectivity in energy, transport,
 and telecommunications can bring about an increase in
-Asia‘s net income of $13 trillion over the 2010-2020
-period and beyond. For poverty-stricken areas in adjacent
+Asia’s net income of $13 trillion over the 2010-2020
+period and beyond.’ For poverty-stricken areas in adjacent
 countries, cooperation in building basic infrastructure can
 help expand their economies and bring mutual benefits
 through trade.
@@ -850,13 +857,13 @@ Paved Roads Railways Electrification Improved Improved Telephone Internet Urban 
 (km/10,000 (route km/ Rate, 2008 Water Sources Sanitation Subscribers Subscribers Population
 Country Grouping people) 10,000 people) (%) (% of total) (% of total) (per 100 people) (per 100 people) (%)
 Northeast Asia 13.72 0.49 99.34 88.11 64.97 5.96 0.366 32.97
-Central Asia 16.48 2:55) = 88.66 2531 23) 0.003 =
+Central Asia 16.48 255, = 88.66 O52) 23) 0.003 =
 South Asia 12.78 0.51 61.03 88.06 32.83 1.20 0.010 40.10
 Southeast Asia 10.51 0.27 71.69 86.39 67.50 3.53 0.031 34.15
 Pacific Islands 3.69 = = 46.19 48.74 0.77 0.043 =
 Asia-Pacific 12.83 0.53 DET 87.72 52.05 3.47 0.154 Bbas
 Industrialized countries 207.10 = = 99.58 99.85 13.76 12553) =
-OECD 211.68 Deed 99.80 09163 99.94 13.87 1.608 =
+OECD 211.68 Deed 99.80 99.63 99.94 13.87 1.608 =
 Latin America 14.32 2.46 92.70 91.37 78.26 6.11 0.150 25.35
 Africa = 0.95 28.50 58.38 30.83 1.42 0.003 62.72
 
@@ -870,7 +877,7 @@ G7 includes Canada, France, Germany, Italy, Japan, the United Kingdom, and the U
 
 a
 b ADBI and ADB. 2009. /nfrastructure for a Seamless Asia. Tokyo: ADBI.
-c
+e
 d
 
 ADBI and ADB. 2009. /nfrastructure for a Seamless Asia. Tokyo: ADBI.
@@ -913,8 +920,8 @@ OPERATIONAL PLANS
 To facilitate the implementation of Strategy 2020, ADB
 is gradually introducing operational plans to guide ADB
 operations in specific sectors and thematic areas. In 2010,
-ADB approved three operational plans for climate change,’
-sustainable transport,? and education.* (See Chapter 13 for
+ADB approved three operational plans for climate change,
+sustainable transport,> and education.* (See Chapter 13 for
 more details.) ADB also started developing new operational
 plans for the finance, urban, and water sectors, as well as
 environment and public—private partnerships, which will
@@ -995,7 +1002,6 @@ regional financial market integration.
 4 ADB. 2010. Education by 2010 — A Sector Operations Plan. Manila.CHAPTER 4
 
 DELIVERING AN
-EFFECTIVE ORGANIZATION
 
  
 
@@ -1200,12 +1206,12 @@ Budget Adequacy
 
 Business Processes and Practices
 
-©8989 ©880000 So
-6090 O©89080 O90
+G09 ©80000 86
+6090 ©890080 OO
 
  
 
-o
+®
 9
 
 periods.)
@@ -1221,7 +1227,7 @@ Red: “Progress stalled or regressed” (More than half of the indicators in th
  
 
 ADB = Asian Development Bank, ADF = Asian Development Fund.
-* ADF is a pool of funds available for financing ADB operations at concessional termsAnnual Report 2010 = 21
+* ADF is a pool of funds available for financing ADB operations at concessional termsAnnual Report 2010 21
 
  
 
@@ -1406,7 +1412,7 @@ brief on reducing carbon emissions from transport projects
 and suggested measures to reduce the carbon footprint of
 ADB’s transport sector assistance. The study developed
 tools to monitor and evaluate the carbon footprint of
-ADB?’s transport sector projects. The study estimated gross
+ADB’s transport sector projects. The study estimated gross
 carbon dioxide emissions from the construction and operations of ADB-funded transport projects approved during
 2000-2009 at 792 million tons. That would be an average of
 39.6 million tons/year in a project’s 20-year lifetime. Transport
@@ -1577,7 +1583,7 @@ and food security
 * Regional cooperation and integration
 * Transport
 * Urban
-° Water
+* Water
 Communities of practice are groups of like-minded
 individuals who keep know-how in sector and
 thematic domains alive by continuously sharing
@@ -1691,7 +1697,7 @@ A milestone in 2010 was the approval in January of
 Our People Strategy, which sets out ADB’s employee
 value proposition (or what ADB offers of value to its staff).
 Three key goals were highlighted in this paper, summarized by the words: good people, capable managers, and a
-supportive work environment.Annual Report 2010 27
+supportive work environment.Annual Report 2010 = 27
 
  
 
@@ -1752,7 +1758,7 @@ good practices that could be replicated or applied more
 widely. The working group made recommendations under
 three headings: (i) achieving total project readiness;
 (ii) enhancing organization, staff skills, and incentives; and
-(iii) ensuring effective project implementation.
+(ili) ensuring effective project implementation.
 
 STRENGTHENING RISK
 MANAGEMENT
@@ -1843,7 +1849,7 @@ emphasis on high-risk items.
 INTEGRITY AND
 ANTICORRUPTION ACTIVITIES
 
-The ADB Office of Anticorruption and Integrity (OAI)
+The ADB Office of Anticorruption and Integrity (OAT)
 receives and investigates allegations of fraud, corruption,
 coercion, collusion, obstructive practices, conflict of interest, misconduct, and abuse (collectively known as integrity violations) in ADB-financed activity. The office also
 conducts project procurement-related reviews of ongoing
@@ -1897,10 +1903,12 @@ integrity and ethics.SECTOR AND THEMATIC
 
 HIGHLIGHTS
 
-a
-}
+-- + ey
+
+*
 ,
-i
+,
+'
 
  
 
@@ -1968,7 +1976,7 @@ resource development confronting Asia and the Pacific,
 and presents ADB’s response in meeting them, including
 increased support for workforce skills development and
 higher education. The plan stresses the importance of
-inclusive, equitable education and pro-poor public-private
+inclusive, equitable education and pro-poor public—private
 partnerships. ADB also prepared knowledge products
 in these areas. Eight loans and grants ($611.7 million)
 included, among others, ADB’s response to the demand
@@ -2048,16 +2056,16 @@ investment will provide access to electricity and modern
 fuels for 1.5 million households, adding to 1.27 million
 households connected during 2003-2009.
 
-Transport. Approval of the Sustainable
+of the
 Initiative Operational Plan placed ADB at the forefront of
 
-Transport
-
+Transport. Approval Sustainable Transport
 sustainable transport in developing member countries. The
 ADB Transport Forum 2010 discussed issues related to
 urban transport, mainstreaming climate change, crossborder transport and logistics, and road safety, and
 social sustainability. The Kathmandu Sustainable Urban
 Transport Project was approved, serving as a showcase
+
 for support in urban transport.
 
 Urban development. Urban Day 2010, held in Manila,
@@ -2077,7 +2085,7 @@ Clean energy investments
 reached $1.76 billion, against
 a target of $1 billion. Doubling
 that goal from 2013 will boost
-renewable energy generationAnnual Report 2010 = 33
+renewable energy generationAnnual Report 2010 33
 
  
 
@@ -2130,7 +2138,7 @@ Implementing Entities for the Fund.
 ADB allocated $1.76 billion to clean energy investments.
 New initiatives to promote technology innovation, transfer,
 and diffusion were advanced, including the Asia Clean Technology Exchange, the Asia Climate Change and Clean Energy
-Venture Capital Initiative, the Climate Public-Private Partnership Fund, the Asia Solar Energy Initiative, and Quantum
+Venture Capital Initiative, the Climate Public—Private Partnership Fund, the Asia Solar Energy Initiative, and Quantum
 Leap in Wind Power. Its Carbon Market Program continued
 to help developing member countries access financing and
 technology for low-carbon investments through the Kyoto
@@ -2173,7 +2181,7 @@ for all PPP-related matters within and outside ADB,34 Asian Development Bank
 
 was established, and a PPP Operational Plan was being
 prepared for which approval is expected in 2011. The
-Multilateral Public—Private Partnership for Infrastructure
+Multilateral Public-Private Partnership for Infrastructure
 Capacity Development (MP3IC) Program partners, a
 joint initiative of ADB, Inter-American Development
 Bank, and World Bank Institute, continued to develop
@@ -2228,12 +2236,11 @@ Agriculture and
 
  
 
-Natural Resources 443.5 3.4 613.9 54 Natural Resources e = = =
-Education 850 06 70.0 06 Education SS se = =
+Natural Resources 443.5 3.4 613.9 54 Natural Resources S 7 = ©
+Education 850 06 70.0 0.6 Education = oe = =
 Energy 2,120.9 16.0 2,454.0 21.4 Energy 80.0 36.4 48.0 19.8
 Finance 510.0 3.9 1,263.4 11.0 Finance 140.0 63.6 165.0 67.9
-Health and Social Protection 93.1 07 WTO 15 Health and Social Protection a = - Industry and Trade 101.0 08 = Industry and Trade = = - Public Sector Management 5,306.4 40.2 8945 7.8 Public Sector Management = = = Transport and ICT 2,338.5 17.7 3,831.1 33.4 Transport and ICT = = = =
-Water Supply and Other Municipal Water Supply and Other Municipal
+Health and Social Protection 93.1 07 17.0) 15 Health and Social Protection a = - Industry and Trade 101.0 08 = Industry and Trade = = - Public Sector Management 5,306.4 40.2 8945 7.8 Public Sector Management = = = Transport and ICT 2,338.5 17.7 3,831.1 33.4 Transport and ICT = = = Water Supply and Other Municipal Water Supply and Other Municipal
 
 Infrastructure and Services 808.5 6.1 607.0 53 Infrastructure and Services = = 30.0 12.3
 Multisector 1,409.0 10.7 1,551.4 13.5 Multisector = = = Total 13,215.9 100.0 11,462.3 100.0 Total 220.0 100.0 243.0 100.0
@@ -2245,7 +2252,7 @@ Note: Totals may not add up because of rounding.
 
  
 
-~=nil, ICT = Information and communication technology.
+~= nil, ICT = Information and communication technology.
 Note: Totals may not add up because of rounding.
 
  
@@ -2256,30 +2263,30 @@ Note: Totals may not add up because of rounding.
 
 Grants TA Grants
 2009 2010 2009 2010
-$ million % $ million % $million % $million %
+$million % —$million % $ million % $million %
 
 Agriculture and Agriculture and
 
-Natural Resources 133.9 14.5 114.8 11.7 Natural Resources 20.7 10.2 21.9) 12:5
+Natural Resources 133.9 14.5 114.8 11.7 Natural Resources 20.7 10.2 21.9 12:5
 Education 136.3 14.8 23.0) 2:3 Education 48 2.4 3.6 2.0
-Energy 87.2 94 2112 (21,5 Energy 26.5 13.1 TES 23;
-Finance = = 1 EZ Finance 21.7 10.7 11.7 6.7
+Energy 87.2 94 212 (215 Energy 26.5 13.1 TES O38
+Finance = = 1 Ez Finance 21.7 10.7 11.7 6.7
 Health and Social Protection 20.0 2.2 39.0 4.0 Health and Social Protection 6.5 Br) 3.4 2.0
-Industry and Trade = = = = Industry and Trade a9 1.9 46 2.6
+Industry and Trade = = = = Industry and Trade ang) 1.9 46 2.6
 Public Sector Management 55.0 6.0 29.0 3.0 Public Sector Management 442 218 43.0 245
 Transport and ICT 316.8 34.3 466.5 47.5 Transport and ICT 28.7 14.2 18.4 10.5
 Water Supply and Other Municipal Water Supply and Other Municipal
 
-Infrastructure and Services 102.6 11.1 21-60 2.2 Infrastructure and Services 8.7 43 8.8 5.0
-Multisector 72.3 78 59/5) 76 | Multisector 37.3. 18.4 426 243
+Infrastructure and Services 102.6 11.1 21-60 2:2 Infrastructure and Services 8.7 43 8.8 5.0
+Multisector 72.3 78 59/5) 61 Multisector 37.3 18.4 426 243
 Total 924.0 100.0 981.7 100.0 Total 203.0 100.0 175.5 100.0
 
  
 
-— = nil, |CT = Information and communication technology.
+— = nil, ICT = Information and communication technology.
 Note: Totals may not add up because of rounding.
 
-— =nil, ICT = Information and communication technology, TA = technical
+— = nil, ICT = Information and communication technology, TA = technical
 assistance.
 Note: Totals may not add up because of rounding.Annual Report 2010 35
 
@@ -2308,17 +2315,17 @@ $ million %  $million % $ million % $million %
 
 Agriculture and Agriculture and
 
-Natural Resources 40.7 21.5 25:77 16:3) Natural Resources 12.2 19.0 234 lost
-Education B74 197 3.0 19 Education ae 1.7 51.7 34.2
-Energy 8.1 43 5.0 32 Energy 85 13.2 20.4 13.5
-Finance 25 1.8 8.5 5.4 Finance 37) 49 70 46
-Health and Social Protection 15.0 79 3.0 12) Health and Social Protection 0.1 0.2 03 0.2
+Natural Resources 40.7 21.5 25:77 16.3) Natural Resources 12529) 19:0) 2341 ~ Vout
+Education B74 197 3.0 19 Education Ja 1.7 51.7 34.2
+Energy 8.1 43 5.0 3:2 Energy 85 13.2 20.4 13.5
+Finance 35 1.8 8.5 5.4 Finance 37) 49 70 46
+Health and Social Protection 15.0 79 3.0 1.9 Health and Social Protection 0.1 0.2 0.3 0.2
 Industry and Trade 1.6 0.8 3.0 1.9 Industry and Trade 1.1 1.7 22 2.1
-Public Sector Management 2.0 11 8.8 5.6 Public Sector Management 86 13.5 6.3 42
-Transport and ICT 344 18.2 73.2 465 Transport and ICT 46 7.2 73 48
+Public Sector Management 2.0 11 8.8 5.6 Public Sector Management 86 13.5 6.3 4.2
+Transport and ICT 344 18.2 73.2 465 Transport and ICT 46 7.2 23) 48
 Water Supply and Other Municipal Water Supply and Other Municipal
 
-Infrastructure and Services 78 41 = = Infrastructure and Services 97 15.2 12.7 84
+Infrastructure and Services 78 41 = = Infrastructure and Services 97 15.2) 12.7 84
 Multisector 39.1 20.6 212) 17,3) Multisector 14.9 23.3 18.4 12.2
 Total 189.5 100.0 157.3 100.0 Total 64.0 100.0 151.0 100.0
 — = nil, ICT = Information and communication technology. — = nil, ICT = Information and communication technology, TA = technical
@@ -2331,7 +2338,7 @@ $ million % $ million % $ million % $million %
 
 Agriculture and Agriculture and
 
-Natural Resources = = = = Natural Resources 28.7 0.9 50:0) 1:5
+Natural Resources = = = = Natural Resources 28.7 0.9 50:0) 41:5
 Education - = = = Education = = = =
 Energy 325.0 100.0 482.3 49.1 Energy 421.2 13.3 1,021.6 30.4
 Finance = = 500.0 50.9 Finance = a = =
@@ -2340,7 +2347,7 @@ Industry and Trade - - - - Industry and Trade - - - Public Sector Management - -
 Transport and ICT - - - - Transport and ICT 2,320.6 73.3 2,031.8 60.5
 Water Supply and Other Municipal Water Supply and Other Municipal
 
-Infrastructure and Services = = a a Infrastructure and Services S22 1.0 157.0 4.7
+Infrastructure and Services = a a a Infrastructure and Services S22 1.0 157.0 47
 Multisector = = = = Multisector 15.0 0.5 = =
 Total 325.0 100.0 982.3 100.0 Total 3,164.2 100.0 3,360.3 100.0
 
@@ -2367,11 +2374,8 @@ into projects to improve public services and government
 administration, and introduce disaster warning systems for
 the poor. Using PPPs, ADB is financing broadband internet
 connections and telecommunications infrastructure to
-increase rural access.APTER 6
+increase rural access.FINANCING OPERATIONS
 
-  
-
-FINANCING OPERATIONS 
  
 
 In 2010, ADB raised $14.9 billion in medium- and long-term funds, with
@@ -2451,15 +2455,15 @@ Special Funds Resources 3,337 3,370
 Asian Development Fund (ADF) 3,122 3,180
 Loans 2,210 2,213
 Grants 911 967
-Technical Assistance Special Fund (TASF) 137 147
+Technical Assistance Special Fund (TASF) 137; 147
 Other Special Funds 79 43
 Grants” 13 15
 Technical Assistance Grants 66 28
 Subtotal 15,738 13,845
 Cofinancing 3,418 3,669
 Loans and Grants 3,354 3,518
-Technical Assistance Grants 64 Tole
-TOTAL 19,156 1513)
+Technical Assistance Grants 64 ‘Tole
+TOTAL 19,156 1513;
 
  
 
@@ -2469,7 +2473,7 @@ Note: Totals may not add up because of rounding
 a 2010 TFP transactions were conducted subject to the 2009 Board approval.
 b Includes both investment and policy-based grants.
 
-¢ Includes the reimbursable technical assistance for Brunei Darussalam.
+c Includes the reimbursable technical assistance for Brunei Darussalam.
 
 Facility (CSF) of $2.5 billion to alleviate the impact of the
 global financial crisis on DMCs.
@@ -2516,18 +2520,18 @@ OCR ADF Special Funds Cofinancing
 Equity TA
 Loans Guarantees Investments Loans Grants TASF Grants Grants Project TA Total
 
-Bangladesh 800.0 = = 4490 9 - 54. | — 1,710.9 22 2,967.5
-India 2,119.6 250.0 = = = 10.6 7 = 6.0 BA 2 3952
+Bangladesh 800.0 = = 4490 9 - 54 | - 1,710.9 22 2,967.5
+India 2,119.6 250.0 = = = 10.6 7 = 6.0 923952
 China, People’s Republic of 1577.5 - 10.0 - - 19.3 6.0 - 332.2 2.9 1,947.9
 Viet Nam 510.0 = = 580.0 = 8.3 7 = 145.4 28 1,246.5
 Pakistan 378.8 250.0 = 270.0 = 2.2 3.0 = 190.0 = 1,094.0
 Uzbekistan 390.0 = = 265.0 = 24 7 = 300.0 = 957.4
 Indonesia 785.0 = = = = 1.0 3.0 2.6 54.8 55.3 901.6
-Philippines 600.0 = = = = 1.2 = 0.7 100.0 61 708.0
+Philippines 600.0 = = = = 1.2 = 0.7 100.0 6.1 708.0
 Kazakhstan 606.0 = = = = 0.7 = = 68.0 —- 674.7
-Georgia 338.0 = = 85.0 = Ey: = = 170.0 Hel 596.4
-Regional = 250.0 225.0 = = 64.3 = 212 3.0 48.1 611.6
-Other DMCs? 1,144.8 232.3 8.0 563.6 967.2 30.3 25 B19) 437.4 22.9 3,412.9
+Georgia 338.0 = = 85.0 = Hey: = = 170.0 Hel 596.4
+Regional = 250.0 225.0 = = 64.3 = Ded 3.0 48.1 611.6
+Other DMCs? 1,144.8 232.3 8.0 563.6 967.2 30.3 25 el) 437.4 22.9 3,412.9
 Total 9,249.7 982.3 243.0 2,212.6 967.2 147.1 14.5 28.4 3,517.6 151.0 17,513.4
 
  
@@ -2548,19 +2552,19 @@ OCR ADF ADB Special Funds
 Equity
 Loans Guarantees Investments Loans Grants TASF Grant TA Total
 
-India 2,119.6 250.0 : 2 = 10.6 - : 2,380.1
-China, People’s Republic of 1,577:5 - 10.0 - - 19.3 6.0 - 1,612.8
+India 2,119.6 250.0 : 2 a 10.6 = : 2,380.1
+China, People’s Republic of 157735 - 10.0 - - 19.3 6.0 - 1,612.8
 Bangladesh 800.0 - - 449.0 - 5.4 - - 1,254.4
 Viet Nam 510.0 = = 580.0 = 83 = = 1,098.3
-Pakistan 378.8 250.0 = 270.0 = 22 3.0 = 904.0
+Pakistan 378.8 250.0 = 270.0 = 2.2 3.0 = 904.0
 Indonesia 785.0 = = = = 1.0 3.0 2.6 791.6
 Uzbekistan 390.0 = = 265.0 = 2.4 = = 657.4
 Kazakhstan 606.0 = - = = 0.7 = = 606.7
-Philippines 600.0 - - - - 1.2 - 0.7 601.9
-Thailand 504.3 = = = = 23 = = 506.6
-Regional = 250.0 225.0 = = 64.3 = 21.2 560.5
-Other DMCs? 978.5 2323 8.0 648.6 967.2 2957, 25 3.9 2,870.7
-Total 9,249.7 982.3 243.0 2,212:6 967.2 147.1 14.5 28.4 13,844.8
+Philippines 600.0 - - - - 12 - 0.7 601.9
+Thailand 504.3 = = = = 22 = = 506.6
+Regional = 250.0 225.0 = = 64.3 = 212 560.5
+Other DMCs? 978.5 2323 8.0 648.6 967.2 2977, 25 a) 2,870.7
+Total 9,249.7 982.3 243.0 2,212.6 967.2 147.1 14.5 28.4 13,844.8
 
  
 
@@ -2573,8 +2577,8 @@ a Includes reimbursable technical assistance for Brunei DarussalamAnnual Report 
 
 This Cambodia Power Transmission Lines (CPTL) Project benefited from a $7 million private sector loan
 
-SOVEREIGN AND ae ars ; ;
-able overeign and Nonsovereign Approvals,
+SOVEREIGN AND aeons : :
+fable overeign and Nonsovereign Approvals,
 NONSOVEREIGN APPROVALS 2009-2010
 
  
@@ -2584,13 +2588,13 @@ NONSOVEREIGN APPROVALS 2009-2010
  
 
 ($ million)
-Sovereign approvals amounted to $15.16 billion in 2010, : 2008 2010
+Sovereign approvals amounted to $15.16 billion in 2010, : 2003 2010)
 Sovereign 17,251 15,156
-a decrease of $2.10 billion (12%) from 2009. On the other Ioane 12,778 10,410
+a decrease of $2.10 billion (12%) from 2009. On the other [ane 12,778 10,410
 hand, nonsovereign approvals rose by $454 million (24%) Grants 924 982
-largely due to a more than doubling in lending to the private ee Se ae
-‘ s Technical Assistance 203 175
-sector and an increase in guarantee approvals. é
+largely due to a more than doubling in lending to the private ee oe ae
+x x Technical Assistance 203 175
+sector and an increase in guarantee approvals. i
 Cofinancing
 Loans and Grants 2,957 3,006
 Technical Assistance 64 151"
@@ -2607,7 +2611,7 @@ Total 19,156 17,513
 
  
 
-—=nil.
+—= nil.
 a Includes reimbursable technical assistance for Brunei Darussalam.
 b 2010 TFP transactions were conducted subject to the 2009 Board approval.40 Asian Development Bank
 
@@ -2637,7 +2641,7 @@ ADF 2,127 2,611
 Other 3,020 3,430
 Policy-Based Support? 3,945 1,683
 OCR 2,604 1,013
-ADF gos 568
+ADF eb 568
 Other 346 103
 Other Budget Support
 (Countercyclical Support Facility) 2,500 OCR 2,500 =
@@ -2679,8 +2683,8 @@ Table 7 Nonsovereign Approvals, 2009-2010
  
 
 2009 2010
-Public? 191 250
-Loans 134 oe
+Public® 191 250
+Loans 134 a
 Guarantees = 250
 Cofinancing (Syndications) 56 Private 1,714 2,108
 Loans 304 1,053
@@ -2694,14 +2698,14 @@ Total 1,904 2,358
 
  
 
-== nil
+-= nil
 
 a Refers to nonsovereign loans, syndications, and guarantees to or for enterprises
 that are majority owned by public parties (defined as entities with more than
 50% of their capital held publicly).
 
 Table 8 Cumulative Nonsovereign Operations
-by Top Countries, 1983-2010?»
+by Top Countries, 1983-20102»
 
  
 
@@ -2712,15 +2716,15 @@ by Top Countries, 1983-2010?»
 ($ million)
 $ million %
 
-China, People’s Republic of 2,775 Qi
-India 2372) 18.6
+China, People’s Republic of DTS 21.7
+India 2379) 18.6
 Indonesia 1,219 9.5
 Pakistan 908 TA
 Philippines 768 6.0
 Thailand 525 41
-Kazakhstan 375 29)
+Kazakhstan 375 2:9)
 Sri Lanka 280 22
-Viet Nam 280 22
+Viet Nam 280 2.2
 Bangladesh 242 1.9
 Afghanistan 206 1.6
 Georgia 113 0.9
@@ -2731,7 +2735,7 @@ Armenia 40 0.3
 Papua New Guinea 25 0.2
 Regional 2,350 18.4
 Other DMCs 62 05
-Total 42) 228) 100.0
+Total 127709 100.0
 
  
 
@@ -2797,14 +2801,14 @@ Total DVA Cofinancing 3,021.48 396.20 3,417.68 3,306.14 512.00 3,667.89
 Note: Totals may not add up because of rounding
 a Cofinancing under administrative or collaborative arrangements with ADB.
 b Excludes reimbursable technical assistance for Brunei Darussalam.
-Table 9b Direct Value-Added Cofinancing Arrangements, 2009-2010
+Table 9b Direct Value-Added Cofinancing Arrangements,’ 2009-2010
 (number of projects?)
 2009 2010
 Sovereign Nonsovereign Total Sovereign Nonsovereign Total
-Project Cofinancing 47 4 51 38 eS 43
-Official 47 = 47 38 1 39
+Project Cofinancing 47 4 51 38 2 43
+Official 47 = 47 38 1 39)
 Loans 10 = 10 19 = 19
-Grants 32) = 39) 22 1 Z2
+Grants 39) = 39) 22 1 Z3
 Commercial = = 4 4
 Syndications - 3 3 - S 3
 Loans = 1 1 = 1 1
@@ -2918,7 +2922,7 @@ Net 1,095 379
 Subtotal 5,989 3,276
 Grants?
 ADF Grant Disbursements 347 358
-ADB Other Special Funds Grants‘ 125; 102
+ADB Other Special Funds Grants‘ 125: 102
 Subtotal 482 460
 Total 6,471 3,736
 
@@ -2980,13 +2984,10 @@ Twelve MFFs totaling $4.44 billion and 28 tranches totaling $4.05 billion were a
 12 MFFs ($6.19 billion) and 23 tranches ($3.57 billion)
 in 2009. This represents a decrease of 28% ($1.75 billion)
 for MFFs and an increase of 13% ($478 million)
-for tranches.or aiaand
-
- 
-
-( FE N RAI AN [) Afghanistan, Armenia, Azerbaijan, Georgia,
+for tranches.CHAPTER 7
+( - N RAL. AN [) Afghanistan, Armenia, Azerbaijan, Georgia,
 Kazakhstan, the Kyrgyz Republic, Pakistan,
-W E ST S | Tajikistan, Turkmenistan, Uzbekistan
+W E ST ' S | Tajikistan, Turkmenistan, Uzbekistan
 
  
 
@@ -2994,7 +2995,7 @@ Improved connectivity through investments in transport and logistics, energy
 security and efficiency, upgraded urban services, and public sector reforms
 are at the heart of the ADB strategy in the subregion. More than $1.2 billion
 has been directed at energy supply and transmission, with the same amount
-for transport infrastructure. The Central Asia Regional Economic Cooperation
+or transport infrastructure. The Central Asia Regional Economic Cooperation
 Program reached major milestones in 2010.Annual Report 2010 45
 
  
@@ -3148,7 +3149,7 @@ order to continue supporting the assistance program, which
 covers mainly transport, energy, and irrigation. The 2009—
 2013 country partnership strategy focuses on solving one of
 the government’s key problems—the infrastructure deficit.
-ADB provides all its financing through A fghanistan’s budget
+ADB provides all its financing through Afghanistan’s budget
 system. ADB approved the ADB-managed Afghanistan
 Infrastructure Trust Fund to secure harmonized cofinancing
 for core infrastructure projects. Work on the final segment
@@ -3208,9 +3209,7 @@ connectivity. The same goes for energy security. In the
 meantime, CAREC is promoting regional trade between
 Central Asia, South Asia, and the Middle East. Afghanistan
 is fast becoming a “transit country” for the region. This
-will create security and, ultimately, jobs and development.Annual Report 2010
-
-47
+will create security and, ultimately, jobs and development.Annual Report 2010 47
 
  
 
@@ -3231,20 +3230,20 @@ Ongoing Loans 2010 2009 2010 2009 2010 2009
 
 Country (as of 31 Dec 2010) ($ million) ($ million) ($ million) ($ million) (%) (%)
 Afghanistan 10 18.1 37.1 65.9 74.3 20.0 18.2
-Armenia 5 2217) 1170) 22:3 11941 = =
+Armenia 5 229) 117.0 22.3 1191 = =
 Azerbaijan 8 169.4 149.0 47.0 58.5 = =
 Georgia 5 185.6 ete 138.3 111.4 = =
 Kazakhstan 5 1225 700.9 90.3 542.5 = =
-Kyrgyz Republic 6 25.0 14.1 7.8 24.0 - Pakistan 31 833.3 1,178.9 19974) 1,093.3 19.4 21.4
-Tajikistan iv 2.8 40.5 37.8 67.1 14.3 =
-Uzbekistan 20 149.0 137.8 81.8 125:9 5.0 =
-Total oF 1,528.5 2,486.3 1,290.2 2,216.1 10.3 2:9)
+Kyrgyz Republic 6 25.0 14.1 7.8 24.0 - Pakistan 31 833.3 ese: 199.) 1,093.3 19.4 21.4
+Tajikistan 7 2.8 40.5 37.8 67.1 14.3 =
+Uzbekistan 20 149.0 137.8 81.8 125°¢ 5.0 =
+Total oF 1,528.5 2,486.3 1,290.2 2,216.1 10.3 29)
 
  
 
  
 
--= nil.
+—= nil.
 Note: Totals may not add up because of rounding.
 a Includes closed loans that had contract awards or disbursements during the year.
 
@@ -3261,17 +3260,17 @@ Resources,* 2009-2010
  
 
 Contract Awards/
-No. of Commitments? ? Disbursements? ® Grants at Risk
+No. of Commitments? Disbursements? ° Grants at Risk
 Ongoing Grants 2010 2009 2010 2009 2010 2009
-Country (as of 31 Dec 2010) ($ million) —($ million) ($ million) ($ million) (%) (%)
-Afghanistan 14 231 194.4 170.1 45.1 28.6 15.4
-Armenia = = = = = = z
+Country (as of 31 Dec 2010) ($ million) ($ million) ($ million) ($ million) (%) (%)
+Afghanistan 14 29.1 194.4 170.1 45.1 28.6 15.4
+Armenia = = = = = = =
 Azerbaijan = = = = = = =
-Georgia - = = - = = =
-Kazakhstan - - - - - - Kyrgyz Republic 11 217 26.7 20.4 Ae, - Pakistan 2 0.6 44 22.3 seo: = 50.0
-Tajikistan 6 17.2 46.2 12.2 44.2 16.7 =
-Uzbekistan = = = = =
-Total 33: 74.5 DIN at: 225.0 126.4 152: 9.7
+Georgia - = = - - = =
+Kazakhstan - - - - - - Kyrgyz Republic 11 217 26.7 20.4 ZARD - Pakistan 2 0.6 44 22.3 529; = 50.0
+Tajikistan 6 trey: 46.2 42.2 44.2 16.7 =
+Uzbekistan = = = =
+Total 33; 74.5 DiNat: 225.0 126.4 152 oF
 
  
 
@@ -3280,7 +3279,7 @@ Total 33: 74.5 DIN at: 225.0 126.4 152: 9.7
 —= nil, ADF = Asian Development Fund.
 Note: Totals may not add up because of rounding.
 
-a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF), Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).
+a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF),
 
 b Includes closed grants that had contract awards or disbursements during the year.
 
@@ -3296,6 +3295,8 @@ network in Yerevan. This will be expanded to the rest of the
 country. Trade finance and financing of banks for activities
 with high potential for development impact are also being
 considered.
+
+Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).
 
 Impact of operations. ADB prepared an $80 million
 crisis recovery loan in 2009 to help the government maintain its core public expenditure program, particularly its
@@ -3323,14 +3324,14 @@ Table 12a Central and West Asia: Sovereign Approvals by Country,? 2010
 
 ($ million)
 Country OCR ADF Other Sources Total
-Afghanistan = 352.0 = 352.0
+Afghanistan - 352.0 = 352.0
 GRANTS
 Regional Power Transmission Interconnection - 12.0 - 12.0
 Road Network Development Investment Program — Tranche 2 - 340.0 - 340.0
 Armenia 170.0 = = 170.0
 LOAN
 North-South Road Corridor Investment Program — Tranche 2 170.0 - - 170.0
-Azerbaijan 23223) = 178.7 411.0
+Azerbaijan 232.3 = 178.7 411.0
 GUARANTEE
 Janub Gas-Fired Power Plant 232.3 = 178.7 411.0
 Georgia 250.0 85.0 = 335.0
@@ -3340,7 +3341,7 @@ Social Services Delivery Program 100.0 - - 100.0
 Sustainable Urban Transport Investment Program — Tranche 1 - 85.0 - 85.0
 Kazakhstan 606.0 = 68.0 674.0
 LOANS.
-CAREC Transport Corridor | (Zhambyl Oblast Section)
+CAREC Transport Corridor | (Zhambyl! Oblast Section)
 [Western Europe-Western People’s Republic of China
 International Transit Corridor] Investment Program — Tranche 3 173.0 - 68.0 241.0
 Central Asia Regional Economic Cooperation Corridor 2
@@ -3356,13 +3357,13 @@ Emergency Assistance for Recovery and Reconstruction - $1.5 - 515
 Power Sector Improvement = 28.1 - 28.1
 Pakistan 442.0 270.0 3.0 715.0
 LOANS.
-Power Distribution Enhancement Investment Program — Tranche 2 242.0 - - 242.0
+Power Distribution Enhancement Investment Program — Tranche 2 242.0 = - 242.0
 Punjab Millennium Development Goals Program (Subprogram 2) - 150.0 - 150.0
 Sindh Growth and Rural Revitalization Program (Subprogram 2) - 120.0 - 120.0
 GRANT
 National Flood Emergency Response - - 3.0 3.0
 GUARANTEE
-Renewable Energy Development Sector Investment Program — Tranche 2 200.0 - = 200.0
+Renewable Energy Development Sector Investment Program — Tranche 2 200.0 = = 200.0
 Tajikistan . 122.0 . 122.0
 GRANT
 Regional Power Transmission - 122.0 = 122.0
@@ -3401,14 +3402,14 @@ Afghanistan - - 8.0 - - 8.0
 Sungas LLC for the LPG Distribution Development - = 8.0 - - 8.0
 Armenia 40.0 = 2 = = 40.0
 Zvartnots Airport Expansion (Phase 2) 40.0 - - - - 40.0
-Azerbaijan 27.0 = - - = 27.0
+Azerbaijan 27.0 - - - = 27.0
 Garadagh Cement Expansion and Energy Efficiency 27.0 - - - - 27.0
 Georgia 88.0 > = = = 88.0
 Bank Republic, Joint-Stock Company 20.0 - - - - 20.0
 Joint-Stock Company Bank of Georgia 50.0 - - - - 50.0
-Poti Sea Port Corporation 18.0 - - - - 18.0
+Poti Sea Port Corporation 18.0 > - - - 18.0
 Pakistan 136.8 50.0 = = 190.0 376.8
-Uch Il Power 100.0 50.0 = = 190.0 340.0
+Uch II Power 100.0 50.0 = = 190.0 340.0
 Zorlu Enerji Power 36.8 - - - - 36.8
 Total 291.8 50.0 8.0 = 190.0 539.8
 
@@ -3450,7 +3451,7 @@ increased significantly as a result.
 
 Table 13 Central and West Asia: Cumulative
 Lending and Disbursements by Country
-as of the end of 2010*
+as of the end of 20102
 
  
 
@@ -3467,11 +3468,11 @@ Azerbaijan 687.4 193.4
 Georgia 786.8 369.5
 Kazakhstan 2,309.6 1,251.8
 Kyrgyz Republic 736.2 584.0
-Pakistan 20,894.6 16,217.9:
-Tajikistan 3125 328.0
+Pakistan 20,894.6 16,217.9
+Tajikistan S125 328.0
 Uzbekistan 1,945.9 741.7
 Regional 20.0 3.0
-Total 2971353. 20,599.9
+Total 297135:3. 20,599.9
 
  
 
@@ -3507,10 +3508,10 @@ Approved by Country as of the end of 2010
 
 Other
 Country ADF Special Funds  Cofinancing Total
-Afghanistan 1731571 = 149.5 1,464.6
+Afghanistan 4731571 = 149.5 1,464.6
 Armenia a = = =
-Azerbaijan - - ZS 2.5
-Georgia = - = Kazakhstan = = = =
+Azerbaijan - - 25 2.5
+Georgia = - - Kazakhstan = = = =
 Kyrgyz Republic 246.6 - 6.0 252.6
 Pakistan 5.0 140.5 97.0 242.5
 Tajikistan 264.6 = 19.8 284.4
@@ -3540,11 +3541,11 @@ Kyrgyz Republic 67.9 - 67.9
 Pakistan 25 114.0 116.5
 Tajikistan 59.0 - 59.0
 Uzbekistan - = =
-Regional = - Total 393.5 114.0 507.5
+Regional - - Total 3393/5) 114.0 507.5
 
  
 
-— = nil, ADF = Asian Development Fund.
+—= nil, ADF = Asian Development Fund.
 
 a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake
 Fund (PEF), Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund
@@ -3617,32 +3618,34 @@ ADB Lending by Country, 2009-2010
 ($ million)
 
 Afghanistan
-‘Armenia
+Armenia
 Azerbaijan
 Georgia
 Kazakhstan
 Kyrgyz Republic
 Pakistan
 Tajikistan
+
 Turkmenistan
 
-Uzbekistan 1655.0
-
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Uzbekistan Boao
+60.0
 
 0 200 400 600 800 1,000 1,200
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 2009 m 2010
 
@@ -3653,10 +3656,11 @@ ADB Loan Disbursements by Country, 2009-2010
 ($ million)
 
 Afghanistan
-‘Armenia
+Armenia
 Azerbaijan
+
 Georgia
-Kazakhstan |
+Kazakhstan
 Kyrgyz Republic
 Pakistan
 Tajikistan
@@ -3710,8 +3714,7 @@ Regional
 2009 2010
 
 FIGURE 4 Central and West Asia:
-
-Grant Disbursements by Country,? 2009-2010
+Grant Disbursements by Country,’? 2009-2010
 (Sovereign)
 
 ($ million)
@@ -3751,7 +3754,7 @@ thanks to an ADB initiative to upgrade
 irrigation systems
 
 hen a scarcity of water blighted the quality
-We: his crops, Sohboi Dodoboev saw yields
+Wi his crops, Sohboi Dodoboev saw yields
 
 from his 75-hectare (ha) farm in Tajikistan
 sink to a quarter of normal output and he was forced
@@ -3885,6 +3888,8 @@ banks to expand trade finance. ADB supported the preparation of a welfare improv
 
   
 
+ADB has supported infrastructure upgrades in Adigeni
+
 In the city of Ambrolauri, the water system had
 been in a state of complete dysfunction. Pipes leaked
 and water was contaminated. About a third of the
@@ -3893,8 +3898,6 @@ receiving unsafe water 3 hours a day. ADB-funded
 repairs have brought safe supplies to the population of about 3,200 and leaks have been minimized.
 Now everyone in the city receives good quality water
 14 hours a day.
-
-ADB has supported infrastructure upgrades in Adigeni
 
  
 
@@ -3915,6 +3918,7 @@ jobs and raised incomes in rural areas by improving water
 and soil management. The ongoing Amu-Zang Irrigation
 Rehabilitation Project, with a $73 million loan, is reducing
 siltation in the Amu Darya River.CHAPTER 8
+
 EAS AS lA The People’s Republic of China, Mongolia
 
  
@@ -3923,7 +3927,7 @@ ADB's operations in East Asia are aimed at sustainable development and
 inclusive growth. In the People’s Republic of China (PRC), increased lending
 for energy conservation and clean energy, urban environment improvement,
 and natural resource protection has achieved a greener portfolio. In Mongolia,
-investments in basic infrastructure and social services are being supported.Annual Report 2010 = 55
+investments in basic infrastructure and social services are being supported.Annual Report 2010 55
 
  
 
@@ -3994,7 +3998,7 @@ in East Asia. Priority themes for the PRC are macroeconomic management, energy e
 
 HIGHLIGHTS
 
-* A $66 million loan and mobilization of about
+* A$66 million loan and mobilization of about
 $12.2 million in grants for the PRC’s integrated
 renewable biomass energy development and
 rural environment improvement
@@ -4009,7 +4013,7 @@ bond of CNY1.2 billion to develop the offshore
 renminbi bond market and support ADB's
 nonsovereign operations
 
-* Agrant of $2.5 million from the Asia Pacific
+¢ Agrant of $2.5 million from the Asia Pacific
 Disaster Response Fund to mitigate the
 devastating impact of extreme weather
 conditions in Mongolia
@@ -4149,7 +4153,7 @@ No. of Commitments* Disbursements? Loans at Risk
 Ongoing Loans 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) ($ million) (%) (%)
 China, People’s Republic of 69 1,377.7 1,122.9 1,341.7 1,341.7 1.4 125)
-Mongolia 8 2ny So 153 56.7 25 20.0
+Mongolia 8 Zin Sg 15 56.7 125 20.0
 Total 77 1,399.4 1,176.1 1,356.8 1,398.4 2.6 a9
 
  
@@ -4170,11 +4174,11 @@ Table 17 East Asia: Portfolio Performance Indicators for Grants from ADF and Spe
  
 
 Contract Awards/
-No. of Commitments*? Disbursements*" Grants at Risk
+No. of Commitments®® Disbursements*" Grants at Risk
 Ongoing Grants 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) ($ million) (%) (%)
-China, People’s Republic of 3 0.6 - 0.2 - - Mongolia 13 24.5 16.8 18.3 19.1 Ud, 12.5
-Total 16 254 16.8 18.5 19.1 6.3 11.1
+China, People’s Republic of 3 0.6 - 0.2 - - Mongolia 13 24.5 16.8 18.3 19.1 Wd, 125
+Total 16 25.4 16.8 18.5 ed 6.3 11.1
 
  
 
@@ -4249,8 +4253,8 @@ Table 18a East Asia: Sovereign Approvals by Country, 2010
 
  
 
-Country ocR ADF Other Sources Total
-China, People’s Republic of 1,320.9 = 18.2 133944
+Country ocr ADF Other Sources Total
+China, People’s Republic of 1,320.9 = 18.2 1339441
 LOANS.
 Chongqing Urban-Rural Infrastructure Development Demonstration 100.0 = - 100.0
 Guangxi Southwestern Cities Development 150.0 - = 150.0
@@ -4264,7 +4268,7 @@ Tianjin Integrated Gasification Combined Cycle Power Plant 135.0 - - 135.0
 Wuhan Urban Environmental Improvement 100.0 - - 100.0
 Yunnan Integrated Road Network Development 250.0 - - 250.0
 GRANTS
-Integrated Renewable Biomass Energy Development Sector - - 12:2 qe
+Integrated Renewable Biomass Energy Development Sector - - 12.2 122
 Jiangxi Sustainable Forest Ecosystem Development - - 1.0 1.0
 Tianjin Integrated Gasification Combined Cycle Power Plant - - 5.0 5.0
 Mongolia = 98.0 5.0 103.0
@@ -4278,7 +4282,7 @@ Promoting Inclusive Financial Services for the Poor - - 25: 25
 Regional Logistics Development - 5.0 - 5.0
 Regional Road Development - 16.0 - 16.0
 Southeast Gobi Urban and Border Town Development - 15.0 - 15.0
-Total 1p320)9) 98.0 23/2) 1,442.1
+Total 1932019) 98.0 23:2) 1,442.1
 — = nil, ADF = Asian Development Fund, OCR = ordinary capital resources.
 a Excludes cofinancing for projects approved in previous years, technical assistance grants, and multitranche financing facilities.
 Table 18b East Asia: Nonsovereign Approvals by Country,* 2010
@@ -4296,7 +4300,7 @@ Total 256.6 = 10.0 320.0 = 586.6
  
 
 —= nil, OCR = ordinary capital resources.
-a Excludes cofinancing for projects approved in previous years, technical assistance grants, and trade finance program.Annual Report 2010 = 59
+a Excludes cofinancing for projects approved in previous years, technical assistance grants, and trade finance program.Annual Report 2010 59
 
  
 
@@ -4333,9 +4337,9 @@ by Country as of the end of 2010
 
 Other
 Country ADF Special Funds Cofinancing Total
-China, People’s Republic of = — v2. 60.1 67.3
-Mongolia V2.2: 25) 36.0 210.7
-Total 2a Ooh 96.1 278.0
+China, People’s Republic of = — 2) 60.1 67.3
+Mongolia 172.2 25 36.0 210.7
+Total 22: Osh 96.1 278.0
 
  
 
@@ -4355,8 +4359,8 @@ by Country as of the end of 2010
 Other
 Country ADF Special Funds? Total
 China, People’s Republic of - 0.2 0.2
-Mongolia 35.3 25 37.8
-Total 35:3 eH) 38.0
+Mongolia 353 25) 37.8
+Total 35:3 2e1) 38.0
 
  
 
@@ -4391,7 +4395,7 @@ Mongolia
 
 0 500 1,000 1,500 2,000 2,500
 
-™ 2009 mm 2010
+™ 2009 mi 2010
 
 FIGURE 6 East Asia: Grants Approved by Country,
 2009-2010 (Sovereign and Nonsovereign)
@@ -4411,11 +4415,12 @@ by Country, 2009-2010 (Sovereign and Nonsovereign)
 
 ($ million)
 
-China, People's 1,460.3
-Republic of 1,468.2
+China, People's
+Republic of
 
-Mongolia | 15.1
-58.
+Mongolia
+
+ 
 
 0 200 400 600 800 1,000 1,200 1,400 1,600
 
@@ -4572,10 +4577,11 @@ Heilongjiang’s example. By 2010, the PRC had placed
 the wetlands area in the country—under protection
 and established 550 reserves holding over 2.7 trillion
 tons of fresh water.CHAPTER 9
-Pp A ( , | F| ( , The Cook Islands, Fiji, Kiribati, the Marshall Islands,
+Pp A ( , | F] ( , The Cook Islands, Fiji, Kiribati, the Marshall Islands,
 the Federated States of Micronesia, Nauru, Palau,
 
 Papua New Guinea, Samoa, Solomon Islands,
+
 Timor-Leste, Tonga, Tuvalu, Vanuatu
 
  
@@ -4666,21 +4672,21 @@ Table 22 Pacific: Portfolio Performance Indicators for Sovereign Lending, 2009-2
  
 
 Contract Awards/
-No. of Commitments? Disbursements® Loans at Risk
+No. of Commitments? Disbursements* Loans at Risk
 
 Ongoing Loans 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) ($ million) ($ million) — ($ million) (%) (%)
-Cook Islands 2 239) 1.6 10.6 (0.3) = 25.0
+Cook Islands 2 23.9) 1.6 10.6 (0.3) = 25.0
 Fiji 4 23.0 17.0 16.7 ood = 25.0
-Kiribati il = = = = = =
+Kiribati il = = = - = =
 Marshall Islands 1 10.0 = 10.0 = = =
-Micronesia, Federated States of 2 23 0.8 1.1 0.8 - Nauru = = = = = = =
-Palau zi L = = = = =
+Micronesia, Federated States of 2 23 0.8 11 0.8 - Nauru = = a = = = =
+Palau 2 L = = = = =
 Papua New Guinea 14 30.0 23.6 209 17.4 - Samoa 4 29.4 on, 25.6 6.3 = =
-Solomon Islands = . = = = = =
+Solomon Islands = - = = = = =
 Timor-Leste = & a = = as a
 Tonga - - - - - - Tuvalu 0.02 01 0.3 0.4 100.0 =
-Vanuatu = = = = = = a
+Vanuatu = = aa = a = a
 Regional = 0.002 0.05 0.2 0.4 = =
 Total 32 118.6 48.2 923 30.4 6.3 6.7
 —=nil, () = negative.
@@ -4706,7 +4712,7 @@ COUNTRY HIGHLIGHTS
 The Cook Islands
 
 Partnership priorities. ADB has aligned its country
-partnership strategy with Je Kavenga Nui, the National
+partnership strategy with Te Kavenga Nui, the National
 Sustainable Development Plan (2007-2010), by focusing
 on environmentally sustainable economic development.
 The intended country partnership strategy outcomes are
@@ -4797,7 +4803,9 @@ water meters have been either repaired or replaced.Annual Report 2010 = 65
 
  
 
-Table 23 Pacific: Portfolio Performance Indicators for Grants from ADF and Special Funds Resources,’
+Table 23 Pacific:
+
+Portfolio Performance Indicators for Grants from ADF and Special Funds Resources,?
 
  
 
@@ -4809,29 +4817,29 @@ Table 23 Pacific: Portfolio Performance Indicators for Grants from ADF and Speci
 
 2009-2010
 Contract Awards/
-No. of Commitments» Disbursements? ° Grants at Risk
+No. of Commitments?» Disbursements?” Grants at Risk
 Ongoing Grants 2010 2009 2010 2009 2010 2009
 
 Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) — ($ million) (%) (%)
 Cook Islands = = = = = = =
-Fiji - a a - = a a2
+Fiji - a eS - = eS a2
 Kiribati = = - = = - =
 Marshall Islands = - = = - =
 Micronesia, Federated States of - - - - - - Nauru a = a = = =
 Palau = = = - = = +
-Papua New Guinea 1 1.4 2.0 3.6 2.6 - Samoa | 42 44 25 33 a =
+Papua New Guinea 1 1.4 2.0 3.6 2.6 - Samoa ie 42 44 25 so a =
 Solomon Islands 6 21.2 37 10.4 1.0 - =
-Timor-Leste 2 6.6 1.0 be Se = =
+Timor-Leste 2 6.6 1.0 by Se a =
 Tonga 2 14.0 0.7 Bh 1.0 = =
-Tuvalu 1 0.0 3.2 0.0 1.2 = =
+Tuvalu 1 0.0 3.2 0.0 2 = =
 Vanuatu = = = 5 = = a
-Regional 1 0.3 0.7 0.9 22 - Total 16 47.6 15.7 24.6 15:2 = =
+Regional 1 0.3 0.7 0.9 22 - Total 16 47.6 sey 24.6 15:2 = =
 
  
 
  
 
-— = nil, ADF = Asian Development Fund.
+—= nil, ADF = Asian Development Fund.
 Note: Totals may not add up because of rounding.
 
 a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF), Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).
@@ -4885,7 +4893,7 @@ to promote public sector reform, remained priorities. ADB
 increased dialogue at the federal and state levels to strengthen
 the focus on infrastructure, for energy and renewable energy
 in particular, in the states of Yap and Chuuk. The approved
-country operations business plan 2011—2013 includes a loan
+country operations business plan 2011-2013 includes a loan
 
 to support energy sector development in those states and66 Asian Development Bank
 
@@ -4905,10 +4913,10 @@ Kiribati = 12.0 20.6 32.6
 LOAN
 
 Road Rehabilitation = 12.0 20.6 32.6
-Marshall Islands = Ls 1.8 133
+Marshall Islands = 95 1.8 133
 LOAN
 
-Public Sector Program (Subprogram 1) - 9.5 - 9.5
+Public Sector Program (Subprogram 1) - 9.5 - a5
 GRANT
 
 Improved Energy Supply for Poor Households - - 1.8 1.8
@@ -4917,14 +4925,14 @@ LOAN
 
 Water Sector Improvement Program 12.6 3.4 - 16.0
 Papua New Guinea 40.9 29.4 6.0 76.3
-LOANS.
+LOANS
 
 Microfinance Expansion - 13.0 - 13.0
 
 Town Electrification Investment Program — Tranche 1 40.9 16.4 > 57.3
 GRANT
 
-Microfinance Expansion = = 6.0 6.0
+Microfinance Expansion - = 6.0 6.0
 Samoa = 16.0 = 16.0
 LOAN
 
@@ -4940,7 +4948,7 @@ Transport Sector Development = 12.0 60.0 72.0
 Regional - - 3.0 3.0
 GRANT
 
-Social Protection of the Vulnerable in the Pacific (Cook Islands, Marshall Islands, and Tonga) — - 3.0 30
+Social Protection of the Vulnerable in the Pacific (Cook Islands, Marshall Islands, and Tonga) — - 3.0 3.0
 Total 535) 87.3 92.0 232.8
 
  
@@ -4956,7 +4964,7 @@ Impact of operations. The Omnibus Infrastructure
 Development Project helped to restore critical water
 supply, sanitation, and power infrastructure. Technical
 assistance in support of improved economic management and accountability provided training to Finance
-Department staff in all four states, strengthening the govermment’s ability to manage its financial and budgetary
+Department staff in all four states, strengthening the government’s ability to manage its financial and budgetary
 performance. As a result of technical assistance, the Chuuk
 Department of Education is leading all stakeholders in a
 concerted program to reform the state’s education system.
@@ -4996,60 +5004,68 @@ Disbursements by Country as of the end of 20107”
 Country Lending Disbursements
 Cook Islands 55.0 38.2
 Fiji S173 214.5
-Kiribati 2 1B
+Kiribati Ze ABE
 Marshall Islands 87.6 74.1
-Micronesia, Federated States of 7531 48.2
+Micronesia, Federated States of 75a 48.2
 Nauru 5.0 23
 Palau 16.0 =
 Papua New Guinea 1,342.3 773.9
 Samoa 175.4 140.2
-Solomon Islands ToS: 65.8
+Solomon Islands 75S: 65.8
 Timor-Leste = a
-Tonga 57.8 $23,
-Tuvalu 78 veo)
+Tonga 57.8 $233
+Tuvalu 78 eS
 Vanuatu 51.3 49.0
-Regional* 1S 1.6
+Regional* 153 1.6
 Total 2,298.5 1,481.8
 
  
 
-~=nil.
+-=nil.
 
 Note: Totals may not add up because of rounding.
 
 a Loan component of regional projects distributed to the countries whenever
 possible.
 
-b Includes nonsovereign (public and private) sector loans specific to the region
+b Includes nonsovereign (public and private) sector loans specific to the region.
 
-¢ The figure reported in 2009 has been adjusted to reflect disbursements specific
+© The figure reported in 2009 has been adjusted to reflect disbursements specific
 to the Pacific region, excluding regional disbursements under nonsovereign
 operations.
 
 Table 26 Pacific: Cumulative Grant Disbursements
 by Country as of the end of 2010
 
- 
-
- 
-
- 
-
 ($ million)
+Country
 
-Country ADF Other Special Funds? ‘Total
-Cook Islands - - Fiji 5 =
-Kiribati - - Marshall Islands - - Micronesia, Federated States of — - Nauru = = =
+ 
+
+ADF Other Special Funds? ‘Total
+Cook Islands - = =
+Fiji = - Kiribati - = =
+Marshall Islands - = =
+
+ 
+
+Micronesia, Federated States of — - 
+ 
+
+Nauru = = =
+
 Palau = = =
+
 Papua New Guinea 10.3 - 10.3
-Samoa Bed) 1.0 6.9
-Solomon Islands 1a = Vas
+Samoa ood) 1.0 6.9
+Solomon Islands Thee = Vs
 Timor-Leste 11.5 = 11.5
 Tonga 7.2 - PD.
-Tuvalu 1.2 - es
+Tuvalu 2) - 1.2
 Vanuatu = = a
+
 Regional 7.0 = 7.0
-Total 54.8 AD 55.8
+Total 54.8 1.0 55.8
 
  
 
@@ -5074,7 +5090,7 @@ by Country as of the end of 2010
 ($ million)
 
 Other
-Country ADF Special Funds Cofinancing* Total
+Country ADF Special Funds  Cofinancing* Total
 Cook Islands = = = =
 Fiji = = - =
 Kiribati = = = =
@@ -5082,13 +5098,13 @@ Marshall Islands = = 1.8 1.8
 Micronesia,
 
 Federated States of = = 1.0 1.0
-Nauru a = = =
+Nauru a = = a
 Palau = = = =
 Papua New Guinea 15.0 = 25.4 40.4
-Samoa 23:5 1.0 Zane 49.7
+Samoa 225 1.0 Zoe. 49.7
 Solomon Islands 51-3 = 48.1 99.4
-Timor-Leste 62.0 & 3.0 65.0
-Tonga 21.3 = = 243
+Timor-Leste 62.0 e 3.0 65.0
+Tonga 21.3 = = 203
 Tuvalu 3.2 = - 3.2
 Vanuatu = = a =
 Regional 8.0 - 3.0 11.0
@@ -5125,41 +5141,48 @@ project continued to support private sector participation in68 Asian Development
  
 
 FIGURE 9 Pacific: ADB Lending by Country,
-
 2009-2010 (Sovereign and Nonsovereign)
+
 ($ million)
 
-Cook Islands
+Cook Islands I i00
 
-Fiji
+By 6714
 
-Kiribati
+Kiribati 140
 
- 
-
-Marshall Islands
+Marshall islands Mil °>
 
 Micronesia, |
 Federated States of
 
 Nauru
 
-Palau Ml 16.0
-
-Papua New Guinea
+Palau Ml |'6.0
 
  
 
-145.0
+Papua New Guinea Pn
 
-Samoa 16-0
+Samoa
 
 Solomon Islands
+
 Timor-Leste
 
 Tonga
 
 Tuvalu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 Vanuatu
 
@@ -5171,19 +5194,9 @@ Vanuatu
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
 0 20 40 60 80 100 120 140 160
 
-2009 2010
+2009 m 2010
 
 FIGURE 11 Pacific: ADB Loan Disbursements by Country,
 2009-2010 (Sovereign and Nonsovereign)
@@ -5191,12 +5204,12 @@ FIGURE 11 Pacific: ADB Loan Disbursements by Country,
 ($ million)
 
 10.6
-Cook Islands | (o 3
+Cook Islands | (9 3
 " 16.7
-Fil =
+Fil —
 Kiribati
-Marshall Islands M00
-Micronesia, wat
+Marshall Islands Moo
+Micronesia, yu
 Federated States of 08
 Nauru
 Palau
@@ -5222,28 +5235,32 @@ Solomon lslands
  
 
 Timor-Leste
+
 Tonga
+
 103
+
 Tuvalu 04
 Vanuatu
+
 i | 02
+
 Regional (8
+
 -10 0 10 20 30 40
 
-2009 mm 2010
+2009 m 2010
 
 FIGURE 10 Pacific: Grants Approved by Country,
-ign and Nonsovereign)
+2009-2010 (Sovereign and Nonsovereign)
 
- 
-
-  
+($ million)
 
 Cook Islands
 Fiji
 Kiribati
 
-Marshall islands fl 1-8
+Marshall islands 1-8
 
 Micronesia,
 Federated States of
@@ -5265,15 +5282,15 @@ Papua New Guinea
 
 Samoa 1.0
 117.6
-Solomon Islands 80
-ry
+Solomon Islands 50
+PS rs (220
 
 Tonga ju 10.0
 Tuvalu
 
 Vanuatu
 
-. 3.0
+. “3.0
 Regional i
 0 20 40 60
 
@@ -5299,7 +5316,7 @@ Palau
 Papua New Guinea
 Samoa
 
-Solomon Islands
+Solomon \slands
 Timor-Leste
 Tonga
 
@@ -5419,12 +5436,12 @@ the first locally owned bank in Timor-Leste.
 
 After 2 years of independence from donors, IMTL is in
 a sound financial position, says Pat Lisk, the consultant who
-produced the organization's business plan. The value of
+produced the organization’s business plan. The value of
 loans at the end of June 2010 was $6.5 million, and deposits
 totaled about $3.4 million.
 
 infrastructure project management cofinanced by the
-With ADB assistance, the
+With ADB. assistance, the
 Instituicgdéo de Microfinangas de Timor-Leste took a further
 
 Government of Australia.
@@ -5465,16 +5482,14 @@ de Jesus. “Now we're able to pay for our seven children’s
 education, and we're thinking of expanding our business
 into a mini-supermarket.”
 
-a
-
-- This factory is expanding, thanks to an IMfTL loan
+This factory is expanding, thanks to an IMfTL loan
 
 Impact of operations. ADB’s Integrated Urban Development Project contributed to improving the environment
 through provision ofjet/vacuum and street sweeper trucks to
 clear drainages and clean streets around Nuku’alofa. Work
 to widen roads and construct drainages and footpaths has
 started, which will benefit about 32% of the population
-living in Nuku’alofa and other project areas. The $5 million
+living in Nukw’alofa and other project areas. The $5 million
 first tranche of the Economic Support Program grant was
 disbursed in 2010 and helped the government maintain
 a good standard of social services to primary education
@@ -5572,17 +5587,25 @@ Impact of operations. ADB continued to improve
 access to financial services by increasing rural access to
 finance, strengthening the Financial Services Commission’s institutional framework, reforming company and
 bankruptcy laws, modernizing the registry of companies,
-and establishing a framework for secured transactions.SO | | H AS lA Bangladesh, Bhutan, India, the Maldives,
+and establishing a framework for secured transactions.SO | | | H AS lA Bangladesh, Bhutan, India, the Maldives,
 Nepal, Sri Lanka
 
  
 
  
 
-ADB's operations in South Asia aimed for greater development impact by
-mainstreaming climate change adaptation and mitigation into project design,
+AD
+mai
+
+AD
+
+B’s operations in South Asia aimed for greater development impact by
+instreaming climate change adaptation and mitigation into project design,
 and by greater emphasis on gender and private sector participation. In addition,
-ADB implemented important initiatives that boosted regional cooperation.Annual Report 2010 73
+
+ 
+
+B implemented important initiatives that boosted regional cooperation.Annual Report 2010 73
 
  
 
@@ -5606,7 +5629,7 @@ HIGHLIGHTS
 * Delivery of innovative schemes continued
 through projects such as the highly complex
 Padma Multipurpose Bridge Project to build
-Bangladesh’s longest bridge, a sustainable
+Bangladesh's longest bridge, a sustainable
 urban transport project in the Nepalese capital
 Kathmandu, and projects to improve energy
 efficiency in India and bring renewable energy
@@ -5723,16 +5746,16 @@ Table 28 South Asia: Portfolio Performance Indicators for Sovereign Lending, 200
  
 
 Contract Awards/
-No. of Commitments? Disbursements? Loans at Risk
+No. of Commitments* Disbursements’ Loans at Risk
 Ongoing Loans 2010 2009 2010 2009 2010 2009
-Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) — ($ million) (%) (%)
+Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) ($ million) (%) (%)
 Bangladesh 56 458.1 1,209.4 469.1 1,068.0 3.6 =
 Bhutan 6 8.9 75.6 41.5 31.0 = 16.7
-India 67 1,856.0 1,657.1 1,699.0 1,339.8 45 Sy)
-Maldives 6 21.0 rg) 25.9; So = 55.6
-Nepal 16 98.0 94.0 80.1 AS = oo
-Sri Lanka 37 240.7 157.4 308.4 245.6 27 15.0
-Total 188 2,682.7 3,200.5 2,624.1 2,763.2 3) 87
+India 67 1,856.0 1,657.1 1,699.0 1,339.8 45 7)
+Maldives 6 21.0 6.9 25.9) So = 55.6
+Nepal 16 98.0 94.0 80.1 75 = oo)
+Sri Lanka 37 240.7 157.4 308.4 245.6 27° 15.0
+Total 188 2,682.7 3,200.5 2,624.1 2,763.2 3.2 87
 
  
 
@@ -5743,12 +5766,7 @@ Note: Totals may not add up because of rounding.
 a Includes closed loans that had contract awards or disbursements during the year.
 
 Table 29 South Asia: Portfolio Performance Indicators for Grants from ADF
-
-and Special Funds Resources,’ 2009-2010
-
- 
-
- 
+and Special Funds Resources,* 2009-2010
 
  
 
@@ -5759,18 +5777,24 @@ and Special Funds Resources,’ 2009-2010
  
 
 Contract Awards/
-No. of Commitments” Disbursements*® Grants at Risk
+No. of Commitments*” Disbursements*® Grants at Risk
 Ongoing Grants 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) — ($ million) ($ million) — ($ million) (%) (%)
-Bangladesh 1 0.7 0.0 23 1 - Bhutan 6 45 21.8 17.6 46 = =
-India = 0.1 4.2 27 16.6 = =
-Maldives 1 0.0 0.2 (0.8) 0.4 - 100.0
-Nepal 23 36.3 139.1 ais 126.0 - 6.3
+Bangladesh 1 0.7 0.0 23 1.2 - Bhutan 6 45 21.8 17.6 46 = =
+India = 0.1 42 27 16.6 = =
+Maldives 1 0.0 0.2 (0.8) 04 - 100.0
+Nepal 23 36.3 139.1 S13 126.0 - 6.3
 Sri Lanka 5 9.8 Wey 26.3 41.4 20.0 20.0
 Total 36 51.4 177.0 79.4 190.2 2.8 10.3
-—=nil, ( ) = negative, ADF = Asian Development Fund.
+
+ 
+
+ 
+
+— = nil, ( ) = negative, ADF = Asian Development Fund.
 
 Note: Totals may not add up because of rounding.
+
 a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF),
 b Includes closed grants that had contract awards or disbursements during the year.
 
@@ -5810,11 +5834,11 @@ such as this is to help the continued expansion of South
 Asian markets and to increase opportunities for development that leads to balanced regional growth and poverty
 reduction.Annual Report 2010
 
-75,
+75
 
  
 
-Table 30a South Asia: Sovereign Approvals by Country,? 2010
+Table 30a South Asia: Sovereign Approvals by Country,* 2010
 
  
 
@@ -5823,7 +5847,7 @@ Table 30a South Asia: Sovereign Approvals by Country,? 2010
  
 
 ($ million)
-Country OcR ADF Other Sources Total
+Country OCR ADF Other Sources Total
 Bangladesh 800.0 449.0 1,700.9 2,949.9
 LOANS.
 Bangladesh—India Electrical Grid Interconnection - 100.0 - 100.0
@@ -5844,7 +5868,7 @@ LOANS
 Agribusiness Infrastructure Development Investment Program — Tranche 1 67.6 - - 67.6
 Assam Integrated Flood and Riverbank Erosion Risk Management Investment Program — Tranche 1 56.9 - - 56.9
 Assam Power Sector Enhancement Investment Program — Tranche 2 89.7 - - 89.7
-Bihar Power System Improvement 132:2 - - V322
+Bihar Power System Improvement 132:2 - - 13222.
 Bihar State Highways II 300.0 - - 300.0
 Himachal Pradesh Clean Energy Development Investment Program — Tranche 3 208.0 - - 208.0
 Infrastructure Development Investment Program for Tourism — Tranche 1 43.4 - - 43.4
@@ -5854,12 +5878,12 @@ Micro, Small, and Medium Enterprise Development 50.0 - - 50.0
 National Capital Region Urban Infrastructure Financing Facility — Tranche 1 78.0 - - 78.0
 North Karnataka Urban Sector Investment Program — Tranche 2 123.0 - - 123.0
 Rajasthan Urban Sector Development Investment Program — Tranche 3 63.0 - - 63.0
-Rural Roads Sector II Investment Program — Tranche 5 222.2. - - 222.2
+Rural Roads Sector II Investment Program — Tranche 5 2222: - - 222.2
 Second India Infrastructure Tranche Financing Facility — Tranche 2 250.0 - - 250.0
 Sustainable Coastal Protection and Management Investment Program — Tranche 1 51.6 - - 51.6
 GRANTS
 Improving Small Farmers’ Access to Market in Bihar and Maharashtra - - 3.0 3.0
-Supporting Microentrepreneurship for Women’s Empowerment = od 3.0 3.0
+Supporting Microentrepreneurship for Women’s Empowerment = = 3.0 3.0
 Nepal = 262.5 28.3 290.8
 LOANS
 Kathmandu Sustainable Urban Transport - 10.0 - 10.0
@@ -5872,8 +5896,8 @@ Detailed Engineering Study for the Upper Seti Hydropower - 25 - 2.5
 Governance Support Program (Subprogram 1) (Supplementary) - - 8.8 8.8
 Kathmandu Sustainable Urban Transport - 10.0 2.5 12.5
 Raising Incomes of Small and Medium Farmers - 20.1 - 20.1
-Rural Finance Sector Development Cluster Program (Subprogram 2) - 12.1 - 12.1
-Subregional Transport Enhancement - 24.5 - 24.5
+Rural Finance Sector Development Cluster Program (Subprogram 2) - eh - 12.1
+Subregional Transport Enhancement = 24.5 - 24.5
 Transport Project Preparatory Facility = 12.0 - 12.0
 Sri Lanka 350.0 107.2 44.0 501.2
 LOANS
@@ -5885,20 +5909,20 @@ Northern Road Connectivity 130.0 24.4 - 154.4
 GRANTS
 Post-Conflict Emergency Assistance for Livelihood Restoration
 
-of Resettled Internally Displaced People in the North - - 2 aS
-Conflict-Affected Region Emergency - - 15 15
+of Resettled Internally Displaced People in the North - - 2 25
+Conflict-Affected Region Emergency - - 15 13
 Total 3,269.6 840.3 1,785.5 5,895.3
 
  
 
-—= nil, ADF = Asian Development Fund, OCR = ordinary capital resources.
-a Excludes cofinancing for projects approved in previous years, technical assistance grants, and multitranche financing facilities.76
+—= nil, ADF = Asian Development Fund, OCR = ordinary capital resources,
+a Excludes cofinancing for projects approved in previous years, technical assistance grants, and multitranche financing facilities76
 
 Asian Development Bank
 
  
 
-Table 30b South Asia: Nonsovereign Approvals by Country, 2010
+Table 30b South Asia: Nonsovereign Approvals by Country,? 2010
 
  
 
@@ -5939,7 +5963,7 @@ Table 30b South Asia: Nonsovereign Approvals by Country, 2010
  
 
 ($ million)
-OcR Cofinancing
+OCR Cofinancing
 
 Equity
 Country Loans Guarantees Investments Project Commercial Total
@@ -5949,7 +5973,7 @@ Total - 250.0 - - - 250.0
 — = nil, OCR = ordinary capital resources.
 a Excludes cofinancing for projects approved in previous years, technical assistance grants, and trade finance program.
 Table 31 South Asia: Cumulative Lending and FIGURE 13 South Asia:
-Disbursements by Country as of the end of 20102" ADB Lending by Country, 2009-2010
+Disbursements by Country as of the end of 20102” ADB Lending by Country, 2009-2010
 ($ million) (Sovereign and Nonsovereign)
 Country Lending Disbursements ($ million)
 Bangladesh 12,134.3 8,393.2
@@ -5967,14 +5991,14 @@ b Includes nonsovereign (public and private) sector loans specific to the region
 lepal
 Sri Lanka
 Table 32a South Asia: Cumulative Grants Approved
-by Country as of the end of 2010 2 )
+by Country as of the end of 2010 2
 ($ million)
 ™ 2009 2010
 Other
 
 Country ADF Special Funds Cofinancing’ _ Total
 Bangladesh 10.0 - 677.9 687.9
-Bhutan 105.3 - 10.5 115.8 ;
+Bhutan 105.3 - 10.5 115.8 |
 india - 100.0 13 1713 FIGURE 14 South Asia:
 Maldives = 20.0 1.0 21.0 Grants Approved by Country, 2009-2010
 Nepal 603.3 0.3 78.5 682.0 (Sovereign and Nonsovereign)
@@ -5983,18 +6007,18 @@ Total 770.8 274.5 984.0 2,029.3
 ~ = nil, ADF = Asian Development Fund. Bangladesh
 a Excludes cofinancing not administered by ADB.
 
-Bhutan
+Bhutan.
 Table 32b South Asia: Cumulative Grant India
 Disbursements by Country as of the end of 2010
 ($ million) Maldives
 
 Other
 
-Country ADF Special Funds? Total Nepal 1728
-Bangladesh 5.9 - 5.9
+Country ADF Special Funds? Total Nepal 172.8
+Bangladesh 59 - bo
 Bhutan 25.0 - 25.0 Sri Lanka
 India - 100.0 100.0
-Maldives - 17.1 17.4 v ety os 0 od
+Maldives - 17.1 17.1 ® eu) oe 0 eo
 Nepal 229.0 - 229.0
 Sri Lanka 16.5 141.9 158.4 2009" 2010
 Total 276.4 259.0 535.4
@@ -6002,29 +6026,46 @@ Total 276.4 259.0 535.4
  
 
 ~ = nil, ADF = Asian Development Fund.
-a Includes grants funded by Asian Tsunami Fund (ATP), Pakistan Earthquake Fund (PEF),
+a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF),
 Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).Annual Report 2010 ae
 
  
 
 FIGURE 15 South Asia: ADB Loan Disbursements
 by Country, 2009-2010 (Sovereign and Nonsovereign)
+
 ($ million)
+
+1
+
+    
+    
+  
+  
+
 Bangladesh
+
 Bhutan
+
 India
 
 Maldives
+93
 
-Nepal
-
-Sri Lanka
-
+  
  
+
+80.1
+Nepal M 20.7
+
+308.
+Sri Lanka i
 
 0 500
 
-1,000 1,500 2,000 2,500
+1,000
+
+1,500 2,000 2,500
 
 2009 m™ 2010
 
@@ -6035,7 +6076,7 @@ Partnership priorities. Under its program for 2011-2013,
 ADB will strengthen its focus on economic growth that is
 inclusive and environmentally sustainable, and on regional
 cooperation and integration. Efforts to deepen private
-sector operations and to promote public—private partnerships in key infrastructure sectors will be pursued. In 2010,
+sector operations and to promote public-private partnerships in key infrastructure sectors will be pursued. In 2010,
 ADB also initiated preparation of the country partnership
 strategy for 2011-2015.
 
@@ -6061,7 +6102,7 @@ Bangladesh
 
 Bhutan
 India
-Maldives (0.8)
+Maldives
 Nepal
 
 Sri Lanka
@@ -6069,7 +6110,7 @@ Sri Lanka
  
 
 -50 0 50 100 150
-2009 m™ 2010
+2009 2010
 
 a Includes grants funded by Asian Development Fund (ADF), Asian Tsunami Fund
 (ATF), Pakistan Earthquake Fund (PEF), Climate Change Fund (CCF),
@@ -6186,7 +6227,7 @@ Impact of operations. The Outer Island Electrification
 Project provided 19 islands with power supplies, and the
 Information Technology Development Project improved
 access to information in remote atolls. The ongoing
-Regional Development Project (Phase IJ) will improve
+Regional Development Project (Phase IL) will improve
 water supply, sanitation services, and solid waste management in three islands, while the Domestic Maritime
 Transport Project will improve connectivity. A Private
 Sector Development technical assistance loan helped
@@ -6213,7 +6254,7 @@ Country Partnership Strategy 2010-2012 is to help Nepal
 sustain hard-won gains of its peace process by promoting
 broad-based
 development, improved governance and institutional ca
-inclusive economic growth and _ social
+inclusive economic growth and social
 pacity, as well as climate change adaptation and environmental sustainability. The country partnership strategy is
 supporting the country’s peace and development aspirations by mainstreaming peace-building in all ADB interventions and is implementing disaster risk management
 
@@ -6235,7 +6276,7 @@ projects on urban transport and the urban environment.
 Impact of operations. ADB is one of nine partners that
 have helped implement the government’s Education for All
 program. The program has brought education to those who
-havetraditionally enjoyed fewer opportunities forschooling,
+have traditionally enjoyed fewer opportunities for schooling,
 including girls, low-caste Dalit children, and members of
 Nepal’s indigenous communities and religious minorities.80 Asian Development Bank
 
@@ -6284,7 +6325,7 @@ about cheap loans and skills training provided by a microcredit project changed 
 
 “It's the best move | made,” says Khadeeja, 49,
 of her decision to take a loan and stay at her home in
-Kattankudy, in the Batticaloa district of Sri Lanka's formerly war-affected east. “The project helped change my
+Kattankudy, in the Batticaloa district of Sri Lanka’s formerly war-affected east. “The project helped change my
 plans. It’s a great opportunity.”
 
 Microfinance and skills training provided by the ADBsupported North East Coastal Community Development
@@ -6335,7 +6376,7 @@ and disseminating research findings and
 on-the-ground experiences that can be used
 to solve development challenges
 
-DB’‘s network serves as a vital link for research
+DB's network serves as a vital link for research
 Ave and think tanks in South Asia, enabling
 
 knowledge gained from experience in countryspecific and regional settings to be spread widely.
@@ -6365,7 +6406,7 @@ in Sri Lanka’s road sector development. ADB also gave
 livelihood grants to more than 30,000 resettled families
 in the northern and eastern parts of the country. This was
 administered through the North East Community Restoration
-and Development Project II and financed by the Australian
+and Development Project I and financed by the Australian
 
 committee, constituted under the RETA, that decides
 whether they can be funded.
@@ -6390,33 +6431,22 @@ Agency for International Development. ADB’s assistance
 in the installation of medium voltage and rural electrification schemes, expedited through the Conflict-Affected
 Areas Rebuilding Project, benefited over 27,000 households.
 Through a technical assistance, ADB helped draft the
-National Climate Change Adaptation Strategy for Sri Lanka.erase ne
-
-SO UTH EAST Brunei Darussalam, Cambodia, Indonesia,
+National Climate Change Adaptation Strategy for Sri Lanka.CHAPTER 11
+Sol | H EAS Brunei Darussalam, Cambodia, Indonesia,
 the Lao People’s Democratic Republic,
 Malaysia, Myanmar, the Philippines,
 AS IA Singapore, Thailand, Viet Nam
 
  
 
-Tra
-
-AD
-
-nsport and energy connectivity for inclusive growth, financial and capital
+Transport and energy connectivity for inclusive growth, financial and capital
 market integration, water supply and sanitation, improved education,
+
 and environmental sustainability are areas of focus for ADB in Southeast Asia.
-
-B provided significant inputs to an Association of Southeast Asian Nations
-
+ADB provided significant inputs to an Association of Southeast Asian Nations
 (ASEAN) master plan on connectivity launched in October, while preparations
 began for anew memorandum of understanding for 2011-2015 with the
-
-AS
-
- 
-
-EAN Secretariat.Annual Report 2010 = 83
+ASEAN Secretariat.Annual Report 2010 = 83
 
  
 
@@ -6654,22 +6684,22 @@ No. of Commitments’ Disbursements* Loans at Risk
 Ongoing Loans 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) —($ million) ($ million) ($ million) (%) (%)
 Cambodia 21 44.3 30.8 525) 61.1 = 6.3
-Indonesia 30 890.8 721.9 965.8 F327 10.0 10.0
-Lao People’s Democratic Republic 8 14.5 24.1 22.2 37.0 - 6.7
-Philippines g Se 1,314.1 aie 1317-5 = =
+Indonesia 30 890.8 721.9 965.8 P32 7 10.0 10.0
+Lao People’s Democratic Republic 8 14.5 24.1 222: 37.0 - 6.7
+Philippines g Se 1,314.1 aie) 1317-5 = =
 Thailand 2 = = = = = =
-Viet Nam 5S 610.2 1,782.0 406.7 1,093.4 ee 23
-Total 125; 1,572.8 3,873.1 1,479.3 3,241.7 5.6 Bed:
+Viet Nam 5S 610.2 1,782.0 406.7 1,093.4 ee 2
+Total 125 1,572.8 3,873.1 1,479.3 3,241.7 5.6 bed)
 
  
 
  
 
--= nil.
+== nil.
 Note: Totals may not add up because of rounding.
 a Includes closed loans that had contract awards or disbursements during the year.
 
-Table 34 Southeast Asia: Portfolio Performance Indicators for Grants from ADF and Special Funds Resources,?
+Table 34 Southeast Asia: Portfolio Performance Indicators for Grants from ADF and Special Funds Resources,’
 
  
 
@@ -6681,21 +6711,21 @@ Table 34 Southeast Asia: Portfolio Performance Indicators for Grants from ADF an
 
 2009-2010
 Contract Awards/
-No. of Commitments*? Disbursements*” Grants at Risk
+No. of Commitments*” Disbursements*” Grants at Risk
 Ongoing Grants 2010 2009 2010 2009 2010 2009
 Country (as of 31 Dec 2010) ($ million) _($ million) ($ million) _($ million) (%) (%)
-Cambodia 19 20.1 28.9 d7.9) 21.6 = =
+Cambodia 19 20.1 28.9 7.9) 21.6 = =
 Indonesia 2 B57; B20 eS Bo) 50.0 33.3
-Lao People’s Democratic Republic 19 40.6 49.4 35:3 33.0 = =
+Lao People’s Democratic Republic 19 40.6 49.4 35:3 33.0 - =
 Philippines 1 0.0 0.0 0.0 3.0 - Thailand = = = = = = =
 Viet Nam 4 67 98 68 10.2 = =
-Total 45 103.1 140.9 AES 127.1 2.2 3.0
+Total 45 103.1 140.9 AES) 127.1 2.2 3.0
 
  
 
  
 
-—= nil, 0.0 = amount less than $50,000.
+= nil, 0.0 = amount less than $50,000.
 Note: Totals may not add up because of rounding.
 
 a Includes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF), Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).
@@ -6748,10 +6778,10 @@ Table 35a Southeast Asia: Sovereign Approvals by Country,? 2010
  
 
 ($ million)
-Country OCR ADF Other Sources _ Total
+Country OcR ADF Other Sources _ Total
 Cambodia = 160.8 36.8 197.6
-LOANS
-Financial Sector Development Program II (Subprogram 4) = 10.0 = 10.0
+LOANS.
+Financial Sector Development Program II (Subprogram 4) - 10.0 - 10.0
 Promoting Economic Diversification Program (Subprogram 2) - 10.0 - 10.0
 Public Financial Management for Rural Development Program (Subprogram 2) = 10.0 > 10.0
 Rural Roads Improvement - 35.0 24.8 59.8
@@ -6762,15 +6792,15 @@ GRANTS
 Financial Sector Development Program II (Subprogram 4) - 5.0 - 5.0
 Greater Mekong Subregion Biodiversity Conservation Corridor - 19.0 - 19.0
 Promoting Economic Diversification Program (Subprogram 2)
-— Program Grant - 9.0 - 9.0
+— Program Grant - 20 - 9.0
 — Project Grant - 5.0 - 5.0
 Public Financial Management for Rural Development Program (Subprogram 2)
 — Program Grant - 10.0 = 10.0
-— Project Grant - 5.0 = 5.0
+— Project Grant - 5.0 = 50)
 Second Greater Mekong Subregion Regional Communicable Diseases Control - 10.0 - 10.0
-Water Resources Management Sector Development Program = 2.8 - 2.8
+Water Resources Management Sector Development Program - 2.8 - 2.8
 Indonesia 485.0 = 57.8 542.8
-LOANS
+LOANS.
 Infrastructure Reform Sector Development Program (Subprogram 3) 200.0 - - 200.0
 Java-Bali Electricity Distribution Performance Improvement 50.0 - 50.0 100.0
 Metropolitan Sanitation Management and Health 35.0 - - 35.0
@@ -6778,8 +6808,8 @@ Sixth Development Policy Support Program 200.0 - - 200.0
 GRANTS
 Citarum Watershed Management and Biodiversity Conservation - - 3.8 3.8
 Java-Bali Electricity Distribution Performance Improvement - - 1.0 1.0
-Mount Merapi Disaster Response = - 3.0 3.0
-Lao People’s Democratic Republic - (S16 49.9 201.5
+Mount Merapi Disaster Response - - 3.0 3.0
+Lao People’s Democratic Republic - A>1.6 49.9 201.5
 GRANTS
 Greater Mekong Subregion Biodiversity Conservation Corridor - 20.0 - 20.0
 Greater Mekong Subregion Northern Power Transmission - 20.0 37.9 57.9
@@ -6789,7 +6819,7 @@ Northern Rural Infrastructure Development Sector - 23.0 - 23.0
 Second Greater Mekong Subregion Regional Communicable Diseases Control - 12.0 - 12.0
 Second Northern Greater Mekong Subregion Transport Network Improvement - 20.0 12.0 32.0
 Strengthening Technical and Vocational Education and Training - 23.0 - 23.0
-Philippines 600.0 - = 600.0
+Philippines 600.0 - - 600.0
 LOANS.
 Financial Market Regulation and Intermediation Program (Subprogram 2) 200.0 = = 200.0
 Social Protection Support 400.0 - - 400.0
@@ -6797,7 +6827,7 @@ Thailand 300.0 = = 300.0
 LOAN
 Capital Market Development Program 300.0 - - 300.0
 Viet Nam 510.0 580.0 75.4 1,165.4
-LOANS
+LOANS.
 Greater Mekong Subregion Ben Luc-Long Thanh Expressway Project — Tranche 1 350.0 - - 350.0
 Greater Mekong Subregion Biodiversity Conservation Corridor - 30.0 - 30.0
 Health Human Resources Sector Development Program
@@ -6805,13 +6835,13 @@ Health Human Resources Sector Development Program
 — Program Loan - 30.0 - 30.0
 Ho Chi Minh City Urban Mass Rapid Transit Line 2 Investment Program — Tranche 1 40.0 - 36.4 76.4
 Second Greater Mekong Subregion Regional Communicable Diseases Control = 27.0 - 27.0
-Second Northern Greater Mekong Subregion Transport Network Improvement = 75.0 - 75.0
+Second Northern Greater Mekong Subregion Transport Network Improvement - 75.0 - 75.0
 Second Small and Medium-Sized Enterprises Development Program (Subprogram 1) = 40.0 - 40.0
 Skills Enhancement? = 70.0 = 70.0
 SOE Reform and Corporate Governance Facilitation Program — Tranche 1 120.0 10.0 = 130.0
 Strengthening Water Management and Irrigation Systems Rehabilitation - 100.0 28.0 128.0
 Sustainable Rural Infrastructure Development Project in Northern Mountain Provinces? - 108.0 - 108.0
-Third Financial Sector Program (Subprogram 2) = 60.0 = 60.0
+Third Financial Sector Program (Subprogram 2) - 60.0 - 60.0
 GRANT
 Health Human Resources Sector Development Program - - 11.0 11.0
 Total 1,895.0 892.4 219.8 3,007.2
@@ -6827,7 +6857,7 @@ b Consists of two ADF loans.Annual Report 2010 = 87
 
  
 
-Table 35b Southeast Asia: Nonsovereign Approvals by Country,’ 2010
+Table 35b Southeast Asia: Nonsovereign Approvals by Country,? 2010
 
  
 
@@ -6838,15 +6868,15 @@ Table 35b Southeast Asia: Nonsovereign Approvals by Country,’ 2010
  
 
 ($ million)
-OcR Cofinancing
+OCR Cofinancing
 Equity
 Country Loans Guarantees Investments Project” Commercial Total
-Indonesia 300.0 = - - = 300.0
-Housing Finance Program 300.0 = = = = 300.0
-Thailand 204.3 = = 2.0 = 206.3
-Bangchak Solar Power 134.3 - - - - 134.3
-Solar Power 70.0 a = 2.0 = 72.0
-Total 504.3 = = 2.0 = 506.3
+Indonesia 300.0 - - = 300.0
+Housing Finance Program 300.0 - = - 300.0
+Thailand 204.3 = 2.0 = 206.3
+Bangchak Solar Power 134.3 - = - 134.3
+Solar Power 70.0 = 2.0 = 72.0
+Total 504.3 = 2.0 = 506.3
 
  
 
@@ -6929,7 +6959,7 @@ relevant to the country’s development context. Country and88 Asian Development
  
 
 Table 36 Southeast Asia: Cumulative Lending and
-Disbursements by Country as of the end of 20107
+Disbursements by Country as of the end of 20107”
 ($ million)
 
  
@@ -6997,20 +7027,20 @@ ADF Special Funds Cofinancing? Total
  
 
 Country
-Cambodia 255) = 90.3 346.0
-Indonesia = 307.0 108.0 415.0
+Cambodia 255 = 90.3 346.0
+Indonesia 307.0 108.0 415.0
 Lao People’s Democratic
 
-Republic 338.8 = le: 390.0
-Malaysia - - - Myanmar - - = Philippines - 3.0 azo S57,
+Republic 338.8 = led: 390.0
+Malaysia - - Myanmar - = Philippines 3.0 Zoi S57,
 Thailand = = 2.0 2.0
 Viet Nam 45.6 = 104.5 150.1
-Regional = - 10.1 10.1
+Regional - 10.1 10.1
 Total 640.1 310.0 398.8 1,348.9
 
  
 
-—=nil, ADF = Asian Development Fund.
+—= nil, ADF = Asian Development Fund.
 Note: Totals may not add up because of rounding
 a Excludes cofinancing not administered by ADB.
 
@@ -7033,8 +7063,7 @@ Democratic Republic 85.6 - 85.6
 Philippines = 3.0 3.0
 Thailand = = =
 Viet Nam 34.2 a 34.2
-Regional - - =
-Total 201.5 301.5 503.0
+Regional - - Total 201.5 301.5 503.0
 
  
 
@@ -7042,7 +7071,7 @@ Total 201.5 301.5 503.0
 
 Note: Totals may not add up because of rounding.
 
-a Includes grants funded by Asian Tsunami Fund (ATP), Pakistan Earthquake Fund (PEF),
+a Indudes grants funded by Asian Tsunami Fund (ATF), Pakistan Earthquake Fund (PEF),
 Climate Change Fund (CCF), and Asia Pacific Disaster Response Fund (APDRF).
 
 Myanmar
@@ -7059,7 +7088,6 @@ was approved in 1987.Annual Report 2010 89
  
 
 FIGURE 17 Southeast Asia:
-
 ADB Lending by Country, 2009-2010
 (Sovereign and Nonsovereign)
 
@@ -7071,7 +7099,7 @@ _ (95.0
 Cambodia 71,7
 
 ee 785.
-ad 2,184.2
+aca 2,184.2,
 
 Lao People's
 Democratic Republic | 0.12
@@ -7079,10 +7107,10 @@ Malaysia
 
 Myanmar
 
-Se 600.0
-Pisin cv 1753
+oe: 600.0
+Pisin: ee 175
 
-% 504.3
+*) 504.3
 Thailand 1
 
  
@@ -7102,16 +7130,15 @@ Viet Nam 1,090.0)
  
 
 0 500 1,000 1,500 2,000 2,500
-2009 m 2010
+mm 2009 m 2010
 
 FIGURE 19 Southeast Asia:
-
 ADB Loan Disbursements by Country, 2009-2010
 (Sovereign and Nonsovereign)
 
 ($ million)
 
-Cambodia Fy 61.1
+Cambodia F611
 Indonesia 1,079.8
 
 Lao People's
@@ -7134,15 +7161,14 @@ Viet Nam
 
  
 
-2009 mi 2010
+2009 m 2010
 
 FIGURE 18 Southeast Asia:
-
 Grants Approved by Country, 2009-2010
-
 (Sovereign and Nonsovereign)
 
 ($ million)
+
 Brunei Darussalam
 
 Cambodia 108.7
@@ -7150,8 +7176,9 @@ Cambodia 108.7
 78
 Indonesia F
 
-ot
+nt
 Democratic Republic 126.6
+
 Malaysia
 
 Myanmar
@@ -7162,7 +7189,7 @@ Thailand | 2-°
 
  
 
-Viet Nam 11.0
+Viet Nam Mil 11.0
 3.5
 
 0 50 100 150 200
@@ -7178,7 +7205,7 @@ Viet Nam 11.0
 2009 2010
 
 FIGURE 20 Southeast Asia:
-ADB Grant Disbursements by Country,? 2009-2010
+ADB Grant Disbursements by Country,’ 2009-2010
 (Sovereign and Nonsovereign)
 
 ($ million)
@@ -7209,14 +7236,11 @@ Lao People's
 Democratic Republic
 
 Malaysia
-
 Myanmar
-
 Philippines
-
 Thailand
-
 Viet Nam
+0 40 80 120 160
 
 ™ 2009 M2010
 
@@ -7364,12 +7388,14 @@ Partnership priorities. ADB’s country partnership
 strategy and operational programs continued to focus on
 economic growth, social development, and environmental
 management. ADB’s engagement achieved these priorities
-by developing infrastructure, such as road _ transport
+by developing infrastructure, such as road transport
 networks, urban mass transit systems, water management
 and irrigation, and rural infrastructure. The promotion of
 small and medium-sized enterprises, a strengthened financial system (including the capital market), improvements
 to efficiency in public administration and governance, and
 enhancements to technical and vocational training helped
+
+ 
 
 among GMS institutions. PPP research grants are made to
 partner research institutions, universities, and think tanks in
@@ -7379,7 +7405,7 @@ To promote the dissemination of knowledge, regular
 GMS dialogue and alumni meetings are supplemented by
 newsletters, websites, and networking events.
 
- 
+Preparing operational plans in Phnom Penh using a GANTT chart
 
 achieve these goals, as did supporting policy reform in
 health workforce management and financing, and fostering
@@ -7400,14 +7426,12 @@ enforcement frameworks. The program helped sustain
 high economic growth during the financial crisis in 2008
 and 2009, which averaged about 6% and had increased
 to almost 7% in 2010. It also reduced the vulnerability of
-families falling into poverty because of the financial crisis.A
+families falling into poverty because of the financial crisis.0
 NONSOVEREIGN
 
 OPERATIONS
 
  
-
-Bip
 
 Private sector investment is a primary engine of economic growth. In 2010,
 ADB’s private sector operations became increasingly active in promoting
@@ -7543,7 +7567,7 @@ making affordable phone services available
 to a quarter of the population
 
 $25 million loan to Digicel Ltd. in Papua New
-Aen approved in September 2009, marked
+Aeon approved in September 2009, marked
 
 ADB's first private sector infrastructure project
 in the Pacific, a frontier region that lags far behind
@@ -7588,7 +7612,7 @@ The project also provides employee training and
 development, and offers business opportunities to
 staff, dealers, and contractors in underdeveloped areas
 in the country. By engaging ADB, Digicel is ensuring
-best practice in corporate governance and _ social
+best practice in corporate governance and social
 responsibility, including the monitoring of social and
 environmental safeguards. Meanwhile, ADB’s support
 encourages similar good practices among other firms,
@@ -7624,11 +7648,9 @@ included two follow-on projects that leveraged knowledgeAnnual Report 2010 95
 
  
 
-R= ht Wx H
+Be
 
  
-
-eee a
 
 The Meihekou City water treatment plant in the People’s Republic of China. ADB sets high standards in financing such projects96 Asian Development Bank
 
@@ -7658,7 +7680,7 @@ By the end of 2009, two funds were operational. ADB
 put $20 million into the $228 million China Environment
 Fund Ill, managed by Beijing-based Tsing Capital, and
 invested in the $54 million Asia Clean Energy Fund
-managed by the Republic of Korea's GS Group. Like any
+managed by the Republic of Korea’s GS Group. Like any
 private equity investor, ADB takes cash returns from the
 funds’ investments.
 
@@ -7734,7 +7756,7 @@ These entities include state-owned enterprises, government agencies, municipalit
 
 Such public nonsovereign operations continued to
 expand in 2010, consistent with the region’s growing
-opportunities for public—private partnerships and local
+opportunities for public-private partnerships and local
 government financing.
 
 ADB contributed $130 million (19% of total capital)
@@ -7756,7 +7778,7 @@ loan and $250 million guarantee to improve the funding environment for micro, sm
 
 Trade Finance Program
 
-ADB's ongoing Trade Finance Program (TFP) provides
+ADB’s ongoing Trade Finance Program (TFP) provides
 guarantees and loans through banks in support of trade.
 In 2010, the TFP supported almost $2.8 billion in trade,
 $1.5 billion of which was cofinancing from commercial
@@ -7774,7 +7796,7 @@ nonsovereign/public—private partnership-enabling projects
 in various sectors, including transport, water, and power.
 The Central and West Asia Department is exploring several
 initiatives to establish legal and regulatory frameworks to
-attract nonsovereign equity and debt financing for infrastructure, and on developing public—private partnerships.
+attract nonsovereign equity and debt financing for infrastructure, and on developing public-private partnerships.
 The East Asia Department processed a nonsovereign
 loan of $34 million to support a large-scale 100-megawatt
 wind power project in the People’s Republic of China,
@@ -7829,10 +7851,6 @@ maturities under TFP transactions tend to be short—average maturity in 2010 wa
 in the course of 2010 was greater than its $1 billion limit without actually breaching the limit at any point in time.GENERATING AND
 
 SHARING KNOWLEDGE
-
-Wey
-
-i ee
 
  
 
@@ -7898,7 +7916,7 @@ relapses into poverty. The publication, viewed online over
 health care can prevent the return to poverty.
 
 A major study, Rebalancing for Sustainable Growth:
-Asias Postcrisis Challenge, identified structural issues and
+Asia s Postcrisis Challenge, identified structural issues and
 policies that can help Asian policy makers raise domestic
 and regional demand, thereby reducing dependence on
 exports to developed economies and creating a basis for
@@ -8026,7 +8044,7 @@ among key policy makers, think tanks, and civil society.
 
 A book, entitled /nfrastructure for a Seamless Asia,
 consisting mainly of ADBI working papers, analyzed
-major challenges in developing regional infrastructureAnnual Report 2010 101
+major challenges in developing regional infrastructureAnnual Report 2010 ‘101
 
  
 
@@ -8238,7 +8256,7 @@ salary structures, and salary increases are effective from
 With the endorsement of the Pension Committee,
 Management approved ADB’s additional contribution
 of $63.147 million to the Staff Retirement Plan for the
-plan year 1 October 2009 to 30 September 2010. This is to
+plan year | October 2009 to 30 September 2010. This is to
 partially reduce the plan’s unfunded past service liability
 and potentially reduce the revealed contribution rate for the
 Staff Retirement Plan in future years.
@@ -8277,7 +8295,7 @@ by overruns in contractual services largely for information
 technology services, and in depreciation, primarily because
 of completion of various IT projects under the Information
 System and Technology Strategy, Phase II, completion of
-various subprojects under the rehabilitation of HQ buildingAnnual Report 2010 = 105
+various subprojects under the rehabilitation of HQ buildingAnnual Report 2010 105
 
  
 
@@ -8295,7 +8313,7 @@ charges estimated to be recoverable from administrating trust
 funds of multilateral and bilateral institutions. The increase of
 $56.90 million or 12.9% over the 2010 budget reflects a price
 increase of 4.9% and a volume growth of 8%. The 2011 net
-TAE budget of $496.35 million consists of $8.95 million for
+IAE budget of $496.35 million consists of $8.95 million for
 IED and $487.40 million for ADB excluding IED.
 
 In addition to internal administrative expenses, the
@@ -8403,7 +8421,7 @@ Processes (SBP) 2010 initiative, in support of ADB’s goal
 of Better and Faster Loan Delivery.
 
 The implementation of the revisions has resulted in
-increased coordination and interaction with the variousAnnual Report 2010 ‘107
+increased coordination and interaction with the variousAnnual Report 2010 107
 
  
 
@@ -8423,7 +8441,7 @@ transaction volume of 16%, the average disbursement
 processing time was reduced by 5% in 2010. The efficiency
 gains can be attributed to these factors:
 
-« The streamlining measures have resulted in further
+¢ The streamlining measures have resulted in further
 empowerment of CTL’s national staff, resulting in
 a flatter organizational structure within CTL, and
 improved responsiveness to ADB’s clients.
@@ -8594,11 +8612,11 @@ Subtotal 71.361 71.417
 
  
 
+ 
+
+ 
+
 NONREGIONAL
-
- 
-
- 
 
 Austria 1966 0.386 0.608
 Belgium 1966 0.386 0.608
@@ -8675,7 +8693,7 @@ Work Program and Budget Framework, 2011-2013 6 October
 Annual Review of Salaries and Benefits for Headquarters National Officers and Administrative Staff 20 October
 Review of ADB's Policy-Based Lending 21 October
 
-Refinements to ADB's Results Framework
+Refinements to ADB’s Results Framework
 
 Borrowing Program for 2011
 
@@ -8696,7 +8714,7 @@ Asian Development Bank Institute Three-Year Rolling Work Program 2011-2013 and B
 
  
 
-Note: If the Board discussed an R-paper and a W-paper in 2010, only the Board date for the R-paper is given.Annual Report 2010111
+Note: If the Board discussed an R-paper and a W-paper in 2010, only the Board date for the R-paper is given.Annual Report 2010-111
 
  
 
@@ -8719,7 +8737,7 @@ MEMBER GOVERNOR ALTERNATE GOVERNOR
 Afghanistan Omar Zakhilwal Abdul Qadeer Fitrat
 Armenia Nerses Yeritsyan Mushegh Tumasyan
 Australia Wayne Swan, MP David Bradbury, MP
-Austria Josef Prdll Gtnther Schonleitner
+Austria Josef Prdall Gtinther Schonleitner
 Azerbaijan Samir Sharifov Shahin Mustafayev
 Bangladesh Abul Maal A. Muhith Md. Musharraf Hossain Bhuiyan
 Belgium Didier Reynders Gino Alzetta
@@ -8852,7 +8870,7 @@ Simon Tosali
 Amando M. Tetangco, Jr.
 Carlos Costa Pina
 Tupaimatuna lulai Lavea
-Peter Ong Boon Kwee112. Asian Development Bank
+Peter Ong Boon Kwee112 Asian Development Bank
 
  
 
@@ -9088,7 +9106,7 @@ Organizational Structure’
 
 OFFICE OF THE COMPLIANCE
 REVIEW PANEL?
-B, Purdue, Secretary
+B. Purdue, Secretary
 
  
 
@@ -9176,8 +9194,8 @@ K. Moktan, Auditor General
  
 
 Special Senior Advisor
-(Infrastructure and Water)
-A, Thapan
+(infrastructure and Water)
+A. Thapan
 
 VICE-PRESIDENT
 (Knowledge Management and
@@ -9196,13 +9214,13 @@ VICE-PRESIDENT
  
 
 (Operations 1) (Operations 2) (Finance and Administration)
-Sustainable Development) ( Cofinancing Operations)
+Sustainable Development) Cofinancing Operations)
 
-U. Schifer-Preuiss X. Zhao C. Lawrence Greenwood, Jr. Ventre B. Lohani
+U, Schifer-Preuiss X. Zhao C Lawrence Greenwood, Jr L Ventre B. Lohani
 REGIONAL AND SUSTAINABLE PRIVATE SECTOR OPERATIONS OFFICE OF
 
 DEVELOPMENT DEPARTMENT
-X. Yao,! Director General
+X. Yao,‘ Director General
 
 SOUTH ASIA DEPARTMENT
 S. Rahman, Director General
@@ -9264,7 +9282,7 @@ DEPARTMENT
 
  
 
-BANGLADESH.
+BANGLADESH
 RESIDENT MISSION
 T. Kandiah, Country Director
 
@@ -9300,7 +9318,7 @@ RESIDENT MISSION
 
 NEPAL
 RESIDENT MISSION
-B. Hitchcock, Country Director
+8. Hitchcock, Country Director
 
  
 
@@ -9383,7 +9401,7 @@ Resident Director General
  
 
 DEPARTMENT OF EXTERNAL
-RELATIONS
+RELATIONS.
 A. Quon, Principal Director
 
  
@@ -9422,7 +9440,7 @@ N. Jain, Country Director
 
 KAZAKHSTAN
 RESIDENT MISSION
-G. Li, Country Director
+G. i, Country Director
 
 THAILAND,
 RESIDENT MISSION
@@ -9472,13 +9490,13 @@ K. Higuchi, Country Director
 
  
 
-1 Fora list of management and senior staff, go to www.adb.org/About/
+1. Fora list of management and senior staff, go to www.adb.org/About/
 
 management.asp
 
 2 The Compliance Review Panel reports to the Board of Directors.
 
-3. The Independent Evaluation Department reports to the Board of Directors
+3 The Independent Evaluation Department reports to the Board of Directors
 through the Development Effectiveness Committee.
 4. Concurrent Chief Compliance Officer.
 
@@ -9517,7 +9535,7 @@ RESIDENT MISSION
 
 SPECIAL LIAISON OFFICE
 IN TIMOR-LESTE
-C. Sugden,
+€. Sugden,
 Resident Representative
 
  
@@ -9685,7 +9703,7 @@ Summary of Internal Administrative Expenses — 2010 and Budget for 2011
 ($ thousand)
 2010
 After Budget
-Item Budget Transfers? Actual 2011
+Item Budget Transfers* Actual 2011
 A. Board of Governors 2,250 2,764" 2,763 2,327
 B. Board of Directors 25,952 25,952 24,617 27,298
 Offices of the Directors 14,847 14,847 14,235 15,509
@@ -9702,11 +9720,11 @@ Representation 442 442 330 490
 D. Administrative Expenses 77,230 77,360 76,456 90,728
 Communications 7,906 7,215 6,998 8,577
 Office Occupancy 20,372 20,362 20,315 25,030
-Library 13235 1,244 1,243 1,481
+Library 1235 1,244 1,243 1,481
 Office Supplies 1,584 1,584 1,537 2,079
 Equipment, maintenance and support 7,172 7,172 7,054 7,892
-Contractual Services 17,719 18,241 18,241 22,121
-Insurance 3,572 BSIz: 3,211 4,146
+Contractual Services 17,719 18,241 18,241 22,124
+Insurance 3,572 3,572 3,211 4,146
 Depreciation 16,934 17,234 17,234 18,484
 Miscellaneous 736 736 624 918
 E. Total Before General Contingency 441,815 442,459 437,446° 498,580
@@ -9718,7 +9736,7 @@ J. Net IAE after Carryover 439,488 439,488 438,571 496,352
 
  
 
-... = no data available or not calculated, “0” = magnitude zero, () = negative, |AE = internal administrative expenses.
+-.. = no data available or not calculated, “0” = magnitude zero, () = negative, |AE = internal administrative expenses.
 
 Note: Totals may not add up because of rounding,
 
@@ -9738,7 +9756,7 @@ d This amount ($6,875,000) reflects the estimated total expenses apportioned for
 e Net IAE budget for 2011 consists of $8,950,000 for the Independent Evaluation Department (IED) and $487,402,000 for ADB excluding IED.
 
 f In 2006, the Board approved introduction of a budget carryover of up to 2% of net IAE budget to the next year, beginning with the 2007 budget. Accordingly, $8.0 million
-(about 1.8% of the 2010 net IAE budget) has been carried over to 2011.Annual Report 2010 (‘119
+(about 1.8% of the 2010 net IAE budget) has been carried over to 2011.Annual Report 2010 ‘119
 
  
 
@@ -9766,15 +9784,15 @@ REGIONAL NONREGIONAL
 Afghanistan 0 0 15: 15 Austria 0 9 0
 Armenia 0 5 6 Belgium 0 9 0
 Australia 0 56 8 64 Canada 0 45 0 45
-Azerbaijan 0 0 4 Denmark 0 8 0 8
+Azerbaijan 0 0 4 — Denmark 0 8 0 8
 Bangladesh 0 9 49 58 Finland 0 7 1 8
 Bhutan 0 3 0 3 France 0 33 0 33
 Brunei Darussalam 0 0 0 0 Germany 1 37 2 40
 Cambodia 0 0 22 22 Ireland 0 1 0 1
 China, People’s Italy 0 16 0 16
 
-Republic of 1 63 44 108 Luxembourg 0 e 0 2
-Gook Islands 2 i 8 © The Netherlands 0 15 0 15
+Republic of 1 63 44 108 Luxembourg 0 z 0 2
+Gook Islands 2 o a 0 The Netherlands 0 15 0 15
 Fiji 0 3 12 15 Norway 0 4 0 4
 Georgia 0 2 7 Portugal 0 4 0 4
 Hong Kong, China 0 5 0 5 Spain 0 13 0 13
@@ -9787,7 +9805,7 @@ Korea, Republic of 0 49 1 50 Subtotal 2 390 5 397
 Kyrgyz Republic 9 d 7 14 Overall Total 6 1,024 1,803 2,833
 Lao People’s
 
-Democratic Republic 0 Z 7 19
+Democratic Republic 0 2 7 19
 Malaysia 0 29 0 29
 Maldives 0 0 0
 Marshall Islands 0 0 0 0
@@ -9904,7 +9922,7 @@ Number of Resident Missions and Authorized Positions
  
 
 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
-Number of Resident Missions (RMs) 17 18° 20° 22 23 23 23 24 25 26
+Number of Resident Missions (RMs) 17 18 20° 22 23 23 23 24 25 26
 Total Authorized Positions at RM 279 S17, 361 389 437 448 490 520 553 604
 International Staff (IS) and National Staff (NS)
 
@@ -9914,17 +9932,17 @@ National Staff 104 118 143 153 163 171 188 202 209 234
 Administrative Staff 110 127: 138 149 167 181 190 199 214 236
 Total Authorized Positions at ADB 2,055 2,116 2,187 2,229 2,310 2,340 2,381 2,498 2,550 2,800
 IS and NS Positions at ADB 1,020 1,071 1,153 1,189 1,253 1,271 1,304 1,378 1,418 1,596
-International Staff" 729 759. 791 797 824 824 836 875 892 982
+International Staff" 729 759: 791 797 824 824 836 875 892 982
 National Staffs 291 312 362 392 429 447 468 503 526 614
 Administrative Staff 1,035 1,045 1,034 1,040 1,057. 1,069 1,077 1,120 1,132 1,204
 % of Authorized Positions at RM to
 
-Total Authorized Positions at ADB 13.6 15.0 16.5 17.5 18.9 19.1 20.6 20.8 21! 21.6
+Total Authorized Positions at ADB 13.6 15.0 16.5 17.5 18.9 19.1 20.6 20.8 21.7 21.6
 % of IS and NS Positions at RMs to
 
-Total IS and NS Positions at ADB 16.6 17 19.3 20.2 21.55: 21.0 23.0 23.3) 23:9. 2351
+Total IS and NS Positions at ADB 16.6 17 19.3 20.2 24.5; 21.0 23.0 23.3) 23:9. 2351
 International Staff 8.9 95 10.1 10.9 13.0 Ted 13.4 13.6 14.6 13.6
-National Staff Boh 37.8 39.5 39.0 38.0 38.3 40.2 40.2 39:4 38.1
+National Staff B5/ 37.8 39:5 39.0 38.0 38.3 40.2 40.2 39:/ 38.1
 Administrative Staff 10.6 12.2 13:3 14.3 15.8 16.9 17.6 17.8 18.9 19.6
 
  
@@ -9959,10 +9977,10 @@ Books
 
 ADBI. ADBI: Year in Review 2009. Tokyo: ADBI.
 
-__. Policy Recommendations to Secure Balanced and Sustainable Growth
+___. Policy Recommendations to Secure Balanced and Sustainable Growth
 in Asia. Tokyo: ADBI.
 
-___. Promoting Financial Inclusion through Innovative Policies. Tokyo: ADBI
+__. Promoting Financial Inclusion through Innovative Policies. Tokyo: ADBI
 
 Bauer, A., and M. Thant (eds.). Poverty and Sustainable Development in Asia:
 Impacts and Responses to the Global Economic Crisis. Manila: ADB.
@@ -10012,7 +10030,7 @@ Anbumozhi, Venkatachalam and Armin Bauer. Impact of Global Recession
 on Sustainable Development and Poverty Linkages. No. 227. July.
 
 Asher, Mukul G. The Global Economic Crisis: An Opportunity for
-Strengthening Asia's Social Protection Systems? No. 198. February.
+Strengthening Asia’s Social Protection Systems? No. 198. February.
 
 Banomyong, Ruth. Supply Chain Dynamics in Asia. No. 184. January.
 
@@ -10568,7 +10586,7 @@ Hasan, R. and K. Jandoc. The Distribution of Firm Size in India: What Can
 Survey Data Tell Us? No. 213. August.
 
 Hasan, R. and K. Jandoc. Trade Liberalization and Wage Inequality
-in the Philippines. No. 195. March.Annual Report 2010 125
+in the Philippines. No. 195. March.Annual Report 2010 = 125
 
  
 
@@ -10597,7 +10615,7 @@ Asian Agriculture. No. 191. February.
 Jiang, Y. Private Sector Participation and Performance of Urban Water Utilities
 in the People’s Republic of China. No. 237. December.
 
-Jiang Y., L. Jin, and T. Lin. Higher Water Tariffs for Less River Pollution—Evidence
+Jiang ¥., L. Jin, and T. Lin. Higher Water Tariffs for Less River Pollution—Evidence
 from Min River and Fuzhou City, People’s Republic of China. No. 201. May.
 
 Jongwanich, J. Capital Flows and Real Exchange Rates in Emerging Asian
@@ -10629,7 +10647,7 @@ Lee, J. and R. Francisco. Human Capital Accumulation in Emerging Asia,
 Lee J. and K. Hong. Economic Growth in Asia: Determinants and Prospects.
 No. 220. September.
 
-Lin T. Toward a Harmonious Countryside: The People’s Republic of China’s
+Lin T. Toward a Harmonious Countryside: The People’s Republic of China's
 Rural Development Survey Results. No. 214. August.
 
 Maligalig, D., R. Caoli-Rodriguez, A. Martinez, Jr., and S. Cuevas. Education
@@ -10805,7 +10823,7 @@ iLink Digest
 iLink Monthly Summaries for education, environment, finance, infrastructure,
 and regional cooperation
 
-New Acauisitions List
+New Acquisitions List
 
 Private sector Investment Climate for Infrastructure
 
@@ -10851,7 +10869,7 @@ Reports/Report Series
 
 ASEAN +3 Asian Bond Markets Initiative Group of Experts. Report for Task
 Force 4 (Cross-Border Bond Transactions and Settlement Issues). https://
-wpaqrl .adb.org/LotusQuickr/asean3goe/Main.nsf/h_Toc/4A2E7BF718270D
+wpaqrl.adb.org/LotusQuickr/asean3goe/Main.nsf/h_Toc/4A2E7BF718270D
 BF48257729000C4CE5/?OpenDocument
 
 Asia Bond Monitor (March, Summer edition, October, and November).
@@ -10910,7 +10928,7 @@ No. 54. July.
 
 Hamanaka, Shintaro. Institutional Parameters of a Region-Wide Economic
 Agreement in Asia: Examination of Trans-Pacific Partnership and
-ASEAN +o. Free Trade Agreement Approaches. No. 67. November.
+ASEAN +a. Free Trade Agreement Approaches. No. 67. November.
 
 Hamanaka, Shintaro. Regionalism Cycle in Asia(-Pacific): A Game Theory
 Approach to the Rise and Fall of Asian Regional Institutions.
@@ -11009,7 +11027,7 @@ CRP’s annual monitoring reports, including lessons learned
 
 Filing a Request for Compliance Review
 
-Knowledge Showcase - Lessons learned from compliance review of the
+Knowledge Showcase — Lessons learned from compliance review of the
 Chashma Right Bank Irrigation (Phase III) project
 
 Online video on the Accountability Mechanism
@@ -11295,11 +11313,16 @@ Regional Seminar on Criminalization of Bribery
 Workability Index in Asia (Working Paper)
 
 Training and Instructive Materials
+
 Addressing Climate Change in Asia and the Pacific: Impacts on Food, Fuel,
 and People
+
 Advancing Roles and Functions for Knowledge Management Coordination
+
 Advancing the Development of Knowledge Partnership Guidelines
+
 An Appreciative Inquiry Cameo
+
 Climate Change ADB Programs: Strengthening Adaptation and Mitigation
 in Asia and the Pacific
 Development of National REDD+ Strategies in Asia and the Pacific — Progress
@@ -11475,7 +11498,7 @@ Southeast Asia Department
 
 Awareness-Raising and Multimedia Materials
 
-Toolkit for Urban Transport (Bus Transport) through Public Private Partnerships
+Toolkit for Urban Transport (Bus Transport) through Public Private Partnerships.
 for the State of Maharashtra
 
 Freedom to Grow: Impact Stories from the Philippines
@@ -11543,7 +11566,7 @@ Working Papers
 Accessing Available Freshwater: Expanded Capture and Storage
 Adapting to Climate Change: Flood Protection to 2030
 Basin Planning and Management: An Asian Scorecard
-Clean Up Costs: Expanding Investments
+Clean Up Costs: Expanding Investments.
 Cleaning Utility Balance Sheets: Attracting Investments
 Energy in Water: The Case for a Smaller Footprint
 From Loss to Profit: Structural Transformation via
@@ -11643,7 +11666,7 @@ Understanding Poverty in India
 Journal
 
 Technical Efficiency of Sawmilling and Conservation of Natural Forests:
-Evidence from Sri LankaAnnual Report 2010 = 131
+Evidence from Sri LankaAnnual Report 2010 131
 
  
 
@@ -11860,20 +11883,20 @@ Georgia 2 100.0 0.0 0.0 Multisector 71 74.6 19.7 5.6
 
 India 45 644 289 67 — Public Sector
 
-1aeeRBSE 192 625 30.7 68 Management 40 52.5 37.5 10.0
+cleRBsE 192 625 30.7 68 Management 40 52.5 37.5 10.0
 
-Rasa RNStaE 10 eno 4010 oO Transport and ICT 239 81.6 13.0 5.4
+RSsSRNGESE 10 a00 4010 00 Transport and ICT 239 81.6 13.0 5.4
 
-. . , . Water and Other
+. , , . Water and Other
 
 Kyrgyz Republic 20 75.0 25.0 0.0 Municipal Infrastructure
 
 Lao People’s and Services 147 59.9 32.0 8.2
-Democratic Republic 47 70.2 255 43
+Democratic Republic 47 70.2 2.5 43
 
-Malaysia 57 649 298 53 ~~ Potal 1932 $3.1 22 BA
+Malaysia 57 649 298 53 ~~ Total 1932 $3.1 22 BA
 
-Maldives 10 380.0 10.0 10.0 GS = generally successful, HS = highly successful, PS = partly successful, S = successful,
+Maldives 10 80.0 10.0 10.0 GS = generally successful, HS = highly successful, PS = partly successful, S = successful,
 
 . . . . US = unsuccessful; ICT = information and communication technology.
 Mongolia 27 63.0 296 74 Note: Totals may not add up because of rounding.
@@ -11890,13 +11913,13 @@ Papua New Guinea 40 32:5 57.5 10.0
 
 Philippines 125 47.2 36.0 16.8
 
-Sri Lanka 80 575 36.3 6.3
+Sri Lanka 80 5/5 36.3 6.3
 
-Tajikistan 14 92.9 7.1 0.0
+Tajikistan 14 92:9 7.1 0.0
 
 Thailand 64 89.1 10.9 0.0
 
-Uzbekistan 13 53.8 385 TT
+Uzbekistan 13 53.8 385 THT
 
 Viet Nam 42 83.3 14.3 2.4
 
@@ -11957,23 +11980,23 @@ Percentage of Sovereign Operations (Projects/Programs) Deemed Successful by Sour
 — 60
 ov
 2
-o
+©
 « 50
 yn
 uw
-S
-gy 40
+8
+g 40
 3
 n
 30
 20
 10
-0 Ln
-ocr nm tT H OR MATH AM TH OR MAOH NMtTH OR WBADeH A
-RRARR RRR RRR DODD DDD HDHD HDAAADAAARAARDAAS SS
-PRSSSHERP RSA ARSARS ERR ARES ARR ASHE EES
+0 a
+ocr nm tT H OR MADADHE AM tT H OR MAOH NM H OR WBADH A
+RRARR RRR RRR ODD DDD HDHD HDAADAAAAAAAAARS SS
+SSSSSERP RSA ARSAR SARA AAE SARA ASHE ES
 Year of Approval
-= Total = Asian Development Fund = —&— Ordinary capital resources
+=e Total = Asian Development Fund = —&— Ordinary capital resources
 Notes:
 
 Based on completed projects/programs evaluated from 1973 to 2010.
@@ -11986,7 +12009,7 @@ Project/program evaluation: 3 years or more after completion.
 
 Data from 2003 onwards are not included due to small sample size.
 
-Figures for 2001-2002 may change as additional projects/programs are completed and evaluated.134 Asian Development Bank
+Figures for 2001-2002 may change as additional projects/programs are completed and evaluated.134. Asian Development Bank
 
  
 
@@ -11999,18 +12022,18 @@ Figures for 2001-2002 may change as additional projects/programs are completed a
 Table A15.3
 Evaluation Results? for Nonsovereign Operations by Country Cumulative from Evaluation Year 1992-2010
 Projects Evaluated from 1992 to mid-2006 Projects Evaluated from end-2006 to 2010
-Using Old Criteria? Using New Criteria‘
+Using Old Criteria’ Using New Criteria‘
 (% of total) (% of total)
 Total Rated Total Rated
 
-Country Projects (no.) HS/GS/S PS US Projects (no.) HS/S PS US
+Country Projects (no.) HS/GS/S PS US Projects (no.) HS/S PS Us
 Afghanistan 0 0.0 0.0 0.0 1 100.0 0.0 0.0
 Azerbaijan 0 0.0 0.0 0.0 2 100.0 0.0 0.0
 Bangladesh Z 100.0 0.0 0.0 2 100.0 0.0 0.0
 Bhutan 0 0.0 0.0 0.0 1 100.0 0.0 0.0
 China, People’s Republic of 0 0.0 0.0 0.0 6 66.7 16.7 16.7
 India 2 100.0 0.0 0.0 5 80.0 20.0 0.0
-Indonesia 2 100.0 0.0 0.0 0 0.0 0.0 0.0
+Indonesia Z 100.0 0.0 0.0 0 0.0 0.0 0.0
 Mongolia 0 0.0 0.0 0.0 1 100.0 0.0 0.0
 Nepal 1 0.0 100.0 0.0 0 0.0 0.0 0.0
 Pakistan 3 100.0 0.0 0.0 0 0.0 0.0 0.0
@@ -12018,7 +12041,7 @@ Philippines 5 60.0 40.0 0.0 1 100.0 0.0 0.0
 Sri Lanka 1 100.0 0.0 0.0 1 100.0 0.0 0.0
 Thailand 0 0.0 0.0 0.0 1 100.0 0.0 0.0
 Viet Nam 0 0.0 0.0 0.0 3 100.0 0.0 0.0
-Regional i 50.0 50.0 0.0 3 333) 66.7 0.0
+Regional 2 50.0 50.0 0.0 3 333) 66.7 0.0
 Total 18 778 22.2 0.0 27 81.5 14.8 3.7
 
  
@@ -12051,7 +12074,7 @@ Sector Projects (no.) HS/GS/S PS US Projects (no.) HS/S PS US
 Industry 3 100.0 0.0 0.0 1 100.0 0.0 0.0
 Infrastructure i 714 28.6 0.0 11 100.0 0.0 0.0
 Capital Markets, Funds, and Fls 8 75.0 25.0 0.0 15 66.7 26.7 6.7
-Total 18 77.8 22.2 0.0 27 81.5 14.8 3.7
+Total 18 77.8 22/2. 0.0 27 81.5 14.8 3.7
 
  
 
@@ -12065,7 +12088,7 @@ evaluation reports (PPERs) using XVR or PPER ratings in all cases where both PCR
 b The criteria used in evaluating sovereign projects were also used in evaluating nonsovereign projects from 1992 to mid-2006.
 
 c The new criteria for evaluating nonsovereign projects, as harmonized with other members of the Evaluation Cooperation Group, were used starting
-end of 2006.Annual Report 2010 = 135
+end of 2006.Annual Report 2010 135
 
  
 
@@ -12547,9 +12570,9 @@ ABBREVIATIONS
 
 ADB -_ Asian Development Bank
 
-ADF —- Asian Development Fund
+ADF -— _ Asian Development Fund
 
-CAREC —- Central Asia Regional Economic Cooperation
+CAREC — Central Asia Regional Economic Cooperation
 CGIF -— Credit Guarantee and Investment Facility
 CoP — community of practice
 
@@ -12559,12 +12582,12 @@ CRP — Compliance Review Panel
 
 DMC -—- _ developing member country
 
-GMS —- _— Greater Mekong Subregion
+GMS —- — Greater Mekong Subregion
 
 ICT — information and communication technology
 IED — Independent Evaluation Department
 
-MDG -_ Millennium Development Goal
+MDG - _ Millennium Development Goal
 
 MfDR -— Managing for Development Results
 
@@ -12572,12 +12595,12 @@ OAG - Office of the Auditor General
 
 OAl —- — Office of Anticorruption and Integrity
 
-OAS - Office of Administrative Services
+OAS - — Office of Administrative Services
 
 OCR -—-__ ordinary capital resources
 
-OIST -— — Office of Information Systems and Technology
-PSOD -— _ Private Sector Operations DepartmentAsian Development Bank
+OIST — Office of Information Systems and Technology
+PSOD — _ Private Sector Operations DepartmentAsian Development Bank
 
 6 ADB Avenue, Mandaluyong City
 1550.Metro Manila, Philippines
