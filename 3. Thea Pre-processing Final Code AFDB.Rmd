@@ -1,0 +1,252 @@
+title: "Pre-processing World Bank Corpus"
+author: "Thea Madsen"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    number_sections: yes
+    toc: yes
+---
+    
+```{r, echo = T, message=FALSE}
+library(quanteda)
+library(quanteda.corpora)
+library(tm)
+library(readtext)
+library(ggplot2)
+library(stringr)
+```
+
+```{r}
+# World Bank corpus 2004-18
+path_data <- setwd("/Users/theamadsen/Desktop/TAD Final")
+wb_corpus_files <- readtext(paste0(path_data, "/OCR_WB_AR_2004-18/*"),
+                    docvarsfrom = "filenames", 
+                    dvsep = "_",
+                    docvarnames = c("Organization", "Type", "Year"))
+wb_corpus_files$doc_id <- str_replace(wb_corpus_files$doc_id , ".txt", "") %>%
+   str_replace(. , "_\\d{2}", "")
+
+# create World Bank corpus object
+wb_corpus <- corpus(wb_corpus_files, text_field = "text") 
+summary(wb_corpus)
+```
+
+# Thea Comment:
+The World Bank reports were downloaded directly from the internet. The African Development Bank (AFDB) reports were also downloaded directly from the internet but were much more difficult to access than the World Bank reports that were nicely organized on the same official World Bank website. Although I spent much time trying to find all the AFDB reports, only the reports from 2004 until 2018 were avaliable for download online. Although a longer time period would have been preferred to a more direct comparison, we are making the best of our avaliable data resources and I will focus my comparison between the World Bank and AFDB reports on the 2004-18 reports in the following analysis to uncover if the tendencies in the World Bank reports are merely concerning the World Bank or if they share characteristics with the AFDB and potentially the tendencies in the general development world. The AFDB reports were only avaliable in pdf format wherefore I had to manually convert every single report using a Python program, which took about 5 hours af the program first converted the pdfs into images of every page - the AFDB reports were typically a couple of hundred pages long - and then from the images into txt format.
+
+```{r}
+# African Development Bank (AFDB) corpus 2004-18
+afdb_corpus_files <- readtext(paste0(path_data, "/AFDB_AN_txt*"),
+                    docvarsfrom = "filenames", 
+                    dvsep = "_",
+                    docvarnames = c("Organization", "Type", "Year"))
+afdb_corpus_files$doc_id <- str_replace(afdb_corpus_files$doc_id , ".txt", "") %>%
+   str_replace(. , "_\\d{2}", "")
+
+# create AFDB corpus object
+afdb_corpus <- corpus(afdb_corpus_files, text_field = "text") 
+summary(afdb_corpus)
+```
+
+# Thea Comment:  
+Running a quick summary of the 15 reports from the World Bank and the AFDB shows that the AFDB reports were shortened after 2015 e.g. obvious in the amount of sentences, types and tokens becoming four times less than in the previous years. The sentences in the World Bank reports varies greatly without a singular detectable tendency.   
+
+## Measure of readibility  
+```{r}
+# Create readability measures for World Bank Corpus
+wb_read <- textstat_readability(wb_corpus,
+                     measure = c("Flesch", "Flesch.Kincaid", "FOG"))
+
+# Create readability measures for AFDB Corpus
+afdb_read <- textstat_readability(afdb_corpus,
+                     measure = c("Flesch", "Flesch.Kincaid", "FOG"))
+```
+
+### Plot distribution of Flesch Reading Ease (FRE) Measure scores over the years  
+```{r}
+plot(wb_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of World Bank Annual Reports", ylab = "Flesch Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+
+```
+
+```{r}
+plot(afdb_read$Flesch, type = 'l', xaxt = 'n', xlab = "Flesch Reading Ease (FRE) Measure of African Development Bank Annual Reports", ylab = "Flesch Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(afdb_corpus, 'Year'))
+```
+
+# Thea Comment:  
+Although the graphs reveal the opposite tendencies of the Banks during the investigated time period, both bank’s reports Flesch scores fluctuate between high 20s and below indicating that they are very difficult to read. The AFDB reports are most difficult in 2009 with score 20 and in 2018 with score below 17. However, the World Bank reports are still more difficult to read with lowest score of merely 5 in 2006.  
+
+
+### Plot distribution of Flesch Kincaid Measure scores over the years  
+```{r}
+plot(wb_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of World Bank Annual Reports", ylab = "Flesch Kincaid Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+```
+
+```{r}
+plot(afdb_read$Flesch.Kincaid, type = 'l', xaxt = 'n', xlab = "Flesch Kincaid Measure of African Development Bank Annual Reports", ylab = "Flesch Kincaid Score")
+grid()
+axis(1, at = seq_len(nrow(afdb_read)), labels = docvars(afdb_corpus, 'Year'))
+```
+
+# Thea Comment:  
+The AFDB Flesch-Kincaid scores peak in 2010 and again in 2018 between which the scores fluctuate around 17-18. The World Bank Flesch-Kincaid scores peak over 22 in 2005 and again at 20 in 2009 but decrease afterwards to a level between 17 and 18.  
+
+### Plot distribution of Gunning Fog Measure scores over the years  
+```{r}
+plot(wb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of World Bank Annual Reports", ylab = "Gunning Fog Score")
+grid()
+axis(1, at = seq_len(nrow(wb_read)), labels = docvars(wb_corpus, 'Year'))
+```
+
+```{r}
+plot(afdb_read$FOG, type = 'l', xaxt = 'n', xlab = "Gunning Fog Measure of African Development Bank Annual Reports", ylab = "Gunning Fog Score")
+grid()
+axis(1, at = seq_len(nrow(afdb_read)), labels = docvars(afdb_corpus, 'Year'))
+```
+
+# Thea Comment:  
+It is unclear which report is most difficult to comprehend for the Gunning Fog score. The AFDB reports have a Gunning Fog score peaking at over 24 in 2009 and around 23.5 in 2018. The World Bank has a Gunning Fog score peaking at over 26 in 2004 and 2009 at 23.5. Both reports lay just above the typical grade level between 0 and 20 denoting that the reports are complex texts.   
+
+### Creating Tokens & removing stopwords, punctuation and numbers  
+```{r}
+# World Bank
+doc.tokens <- tokens(wb_corpus)
+doc.tokens <- tokens(doc.tokens, remove_punct = TRUE, 
+                     remove_numbers = TRUE)
+doc.tokens <- tokens_select(doc.tokens, stopwords('english'),selection='remove')
+doc.tokens <- tokens_wordstem(doc.tokens)
+
+# African Development Bank
+doc.tokens_afdb <- tokens(afdb_corpus)
+doc.tokens_afdb <- tokens(doc.tokens_afdb, remove_punct = TRUE, 
+                     remove_numbers = TRUE)
+doc.tokens_afdb <- tokens_select(doc.tokens_afdb, stopwords('english'),selection='remove')
+doc.tokens_afdb <- tokens_wordstem(doc.tokens_afdb)
+```
+
+### Converting to DFM  
+```{r}
+# World Bank
+doc.dfm <- dfm(wb_corpus, remove_numbers = TRUE, 
+               stem = TRUE, 
+               remove = stopwords("english"))
+
+doc.dfm.final <- dfm(doc.tokens)
+
+# African Development Bank
+doc.dfm_afdb <- dfm(afdb_corpus, remove_numbers = TRUE, 
+               stem = TRUE, 
+               remove = stopwords("english"))
+
+doc.dfm.final_afdb <- dfm(doc.tokens_afdb)
+```
+
+## Word cloud World Bank  
+```{r}
+head(kwic(doc.tokens, "bank", window = 3))
+topfeatures(doc.dfm.final, 5)
+topfeatures(doc.dfm.final, 20)
+textplot_wordcloud(doc.dfm.final)
+```
+
+## Word cloud African Development Bank  
+```{r}
+head(kwic(doc.tokens_afdb, "bank", window = 3))
+topfeatures(doc.dfm.final_afdb, 5)
+topfeatures(doc.dfm.final_afdb, 20)
+textplot_wordcloud(doc.dfm.final_afdb)
+```
+
+# Thea Comment:  
+Both banks use strikingly many of the same words most frequently where the African Development Bank focuses more on Africa and the World Bank more on the world with a larger budget. For the African Development Bank the most frequently used words are, in order of frequency, bank,     ua, develop, million, fund, loan, financi, countri, percent, year, africa, report, rate, african, group, project, manag, risk, sector and annual. For the World Bank the most frequently used words are, in order of frequency, bank, develop, countri,   world, million, billion, fiscal, support, sector, ida, project, percent, region, report, ibrd, manag, group, global, financ and year. This reveals the highly technical financial development language of the World Bank.   
+
+### Lexical diversity  
+# KWIC  
+**Thank you for code input assistance from our instructor Slava Jankin.**  
+```{r}
+head(kwic(wb_corpus, "develop"))
+head(kwic(wb_corpus, "implemen"))
+
+head(kwic(afdb_corpus, "develop"))
+head(kwic(afdb_corpus, "implemen"))
+```
+
+```{r}
+# World Bank
+textplot_xray(kwic(wb_corpus, pattern = "development")) + 
+    ggtitle("Lexical dispersion")
+```
+
+```{r}
+# African Development Bank
+textplot_xray(kwic(afdb_corpus, pattern = "development")) + 
+    ggtitle("Lexical dispersion")
+```
+
+# Thea Comment:  
+It is interesting that the African Development Bank reports use the term development much more frequently than the World Bank reports. Some of this from the earlier reports might be because the African Development reports are longer than the World Bank reports.  
+
+```{r}
+# World Bank
+textplot_xray(
+    kwic(wb_corpus, pattern = "cost"),
+    kwic(wb_corpus, pattern = "project")) + 
+    ggtitle("Lexical dispersion")
+```
+
+```{r}
+# African Development Bank
+textplot_xray(
+    kwic(afdb_corpus, pattern = "cost"),
+    kwic(afdb_corpus, pattern = "project")) + 
+    ggtitle("Lexical dispersion")
+```
+
+# Thea Comment:  
+Same point as before.  
+
+```{r}
+# World Bank
+toks <- tokens(wb_corpus)
+col <- toks %>% 
+       tokens_remove(stopwords("en")) %>% 
+       tokens_select(pattern = "^[A-Z]", valuetype = "regex", 
+                     case_insensitive = FALSE, padding = TRUE) %>% 
+       textstat_collocations(min_count = 5, tolower = FALSE)
+head(col)
+```
+
+```{r}
+# African Development Bank
+toks_afdb <- tokens(afdb_corpus)
+col_afdb <- toks_afdb %>% 
+       tokens_remove(stopwords("en")) %>% 
+       tokens_select(pattern = "^[A-Z]", valuetype = "regex", 
+                     case_insensitive = FALSE, padding = TRUE) %>% 
+       textstat_collocations(min_count = 5, tolower = FALSE)
+head(col_afdb)
+```
+
+# Thea Comment:  
+Although the banks share many of the same collocations like Bank Group and Annual Reports, the African Development Bank focusses more on different boards while the World Bank focusses more on East Asia.  
+
+
+```{r}
+# World Bank
+tstat_col_cap <- textstat_collocations(toks, min_count = 10, tolower = FALSE)
+head(tstat_col_cap, 20)
+
+```
+
+
+```{r}
+tstat_col_cap_afdb <- textstat_collocations(toks_afdb, min_count = 10, tolower = FALSE)
+head(tstat_col_cap_afdb, 20)
+
+```
