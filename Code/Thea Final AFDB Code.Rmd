@@ -24,7 +24,7 @@ output:
 
 ```{r}
 #Load data
-path_data <- setwd("/Users/theamadsen/Desktop/TAD Final")
+path_data <- setwd("/Users/dangngochuy/Desktop/Hertie/Hertie\ 3rd\ semester/Natural\ Language\ Processing/World-Bank-Corpus-Analysis/Code")
 afdb_corpus_files <- readtext(paste0(path_data, "/AFDB_AN_txt/*"),
                     docvarsfrom = "filenames", 
                     dvsep = "_",

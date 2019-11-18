@@ -20,7 +20,7 @@ library("tidyr")
 
 ```{r}
 #Load data
-path_data <- setwd("/Users/172657/Downloads/")
+path_data <- setwd("/Users/dangngochuy/Desktop/Hertie/Hertie\ 3rd\ semester/Natural\ Language\ Processing/World-Bank-Corpus-Analysis/Code")
 ADB_corpus_files <- readtext(paste0(path_data, "/ADB_AN_TXT/*"),
                     docvarsfrom = "filenames", 
                     dvsep = "_",
@@ -33,7 +33,7 @@ ADB_corpus_files$doc_id <- str_replace(ADB_corpus_files$doc_id , ".txt", "") %>%
 
 ```{r}
 #create corpus object
-ADB_corpus <- corpus(ADB_files, text_field = "text")
+ADB_corpus <- corpus(ADB_corpus_files, text_field = "text")
 
 # Inspect corpus to detect data issues
 summary(ADB_corpus)
